@@ -80,6 +80,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
 | Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
+| Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
 | Luko | Paris 🇫🇷 | https://careers.luko.eu |
 | Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
@@ -89,9 +90,12 @@ A well-written and concise resume is an essential ingredient of a successful job
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
 | Polarsteps | Amsterdam 🇳🇱 | https://careers.polarsteps.com |
+| Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Savage Interactive | Hobart 🇦🇺 | https://savage.si/#jobs |
+| Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com/ |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
+| Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
 | Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
 | XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
