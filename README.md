@@ -9,14 +9,15 @@ Relocation to a foreign country for work can be very exciting and lead to unique
 
 And the list goes on!
 
-Hopefully this handbook will will give you the necessary guidance. Topics covered include resume preparation, job search, salary negotiation, relocation packages, and more.
+Hopefully, this handbook will give you the necessary guidance. Topics covered include resume preparation, job search, salary negotiation, relocation packages, and more.
 
 
 # 📝 Resume preparation
-A well written and concise resume is an essential ingredient of a successful job hunt. Here's a list of articles, resources, tools, and content to help you 👇
+A well-written and concise resume is an essential ingredient of a successful job hunt. Here's a list of articles, resources & tools to help you 👇
 
 * [Ways to upgrade that should lead to getting more job interviews](https://relocate.me/blog/resume-interview-tips/10-data-driven-ways-to-use-your-developer-resume-to-get-interviews/)
 * [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
+* 🎥 [The resume that got me into Google and Bloomberg (software engineer resume tips)](https://youtu.be/aHB8bx4P7TE)
 * [40 words to spice up your developer resume](https://cvcompiler.com/blog/40-words-to-spice-up-your-developer-resume/)
 * [How to improve your developer resume's bullet points](https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/)
 * 🔨 [CV Compiler](https://cvcompiler.com/): The app scans your resume for weak spots and suggests immediate, personalized improvements.
@@ -46,6 +47,8 @@ A well written and concise resume is an essential ingredient of a successful job
 * "Who's hiring?" monthly thread on Hacker News. Here's a link to the latest one: https://news.ycombinator.com/item?id=29782099. Use the search feature (Command/Ctrl + F) to find job offerings with the keyword "visa."
 * [@Relocateme](http://t.me/relocateme) Telegram channel with daily actual job alerts
 * [LinkedIn](https://www.linkedin.com/jobs/): When searching, you should add "relocation," "visa support," or "visa sponsorship" into the keywords tab, and select the city/country/region that's your choice for relocation. Here's an [example](https://www.linkedin.com/jobs/search/?currentJobId=2809004062&geoId=91000000&keywords=visa%20support%20software%20developer&location=European%20Union).
+
+**Note:** You can apply the same approach - typing "relocation" followed by your target job title in the search bar - to other sites (e.g., Indeed or Glassdoor) that, like LinkedIn, have no filter for relocation. Of course, you will find some jobs that don't offer relocation or are not quite what you are looking for, but overall using relevant keywords does a good job at filtering them out. 
 
 
 # 🔖 International recruitment agencies
@@ -88,6 +91,7 @@ A well written and concise resume is an essential ingredient of a successful job
 | Form3 | London 🇬🇧 | https://www.form3.tech/careers |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
 | Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
+| Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
 
 
 # 🗣️ Job interviews
