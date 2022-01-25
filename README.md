@@ -65,38 +65,38 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 | Company name | Tech job locations | Careers page |  
 |-------|--------------|---------------|
-| Choco | Berlin 🇩🇪 | https://choco.com/careers |
-| Miro | Amsterdam 🇳🇱 <br> Berlin 🇩🇪 | https://miro.com/careers |
-| Luko | Paris 🇫🇷 | https://careers.luko.eu |
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
+| Catawiki | Amsterdam 🇳🇱 | https://www.catawiki.com/en/jobs |
+| ChannelEngine | Leiden 🇳🇱 | https://jobs.channelengine.com |
+| Choco | Berlin 🇩🇪 | https://choco.com/careers |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
 | Defined.ai | Lisbon 🇵🇹 | https://www.defined.ai/careers |
-| Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
-| Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
-| Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
-| XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
+| Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
+| DocPlanner | Barcelona 🇪🇸 <br> Warsaw 🇵🇱 | https://www.docplanner.com/career |
 | EdApp | Sydney 🇦🇺 | https://www.edapp.com/careers |
-| Zenjob | Berlin 🇩🇪 | https://boards.greenhouse.io/zenjob |
-| Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
-| Catawiki | Amsterdam 🇳🇱 | https://www.catawiki.com/en/jobs |
-| Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
-| Mujin | Tokyo 🇯🇵 | https://www.mujin.co.jp/en/recruit |
-| fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
-| Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
-| FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
 | ERIKS Digital | Amsterdam 🇳🇱 | https://careers.eriksdigital.com |
-| PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
+| FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
+| Form3 | London 🇬🇧 | https://www.form3.tech/careers |
+| fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
+| Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
-| Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
-| SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
-| ChannelEngine | Leiden 🇳🇱 | https://jobs.channelengine.com |
+| Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
+| Luko | Paris 🇫🇷 | https://careers.luko.eu |
+| Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
+| Miro | Amsterdam 🇳🇱 <br> Berlin 🇩🇪 | https://miro.com/careers |
+| Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
+| Mujin | Tokyo 🇯🇵 | https://www.mujin.co.jp/en/recruit |
+| PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
+| Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
 | Polarsteps | Amsterdam 🇳🇱 | https://careers.polarsteps.com |
 | Savage Interactive | Hobart 🇦🇺 | https://savage.si/#jobs |
-| DocPlanner | Barcelona 🇪🇸 <br> Warsaw 🇵🇱 | https://www.docplanner.com/career |
-| Form3 | London 🇬🇧 | https://www.form3.tech/careers |
-| Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
-| Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
-| Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
+| SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
+| Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
+| Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
+| Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
+| XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
+| Zenjob | Berlin 🇩🇪 | https://boards.greenhouse.io/zenjob |
+| Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
 
 
 # 🗣️ Job interviews
