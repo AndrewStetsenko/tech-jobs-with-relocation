@@ -46,14 +46,19 @@ A well-written and concise resume is an essential ingredient of a successful job
 # 🔖 Other places to check during the search
 * "Who's hiring?" monthly thread on Hacker News. Here's a link to the latest one: https://news.ycombinator.com/item?id=29782099. Use the search feature (Command/Ctrl + F) to find job offerings with the keyword "visa."
 * [@Relocateme](http://t.me/relocateme) Telegram channel with daily actual job alerts
+* [Big list of local job boards](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/)
 * [LinkedIn](https://www.linkedin.com/jobs/): When searching, you should add "relocation," "visa support," or "visa sponsorship" into the keywords tab, and select the city/country/region that's your choice for relocation. Here's an [example](https://www.linkedin.com/jobs/search/?currentJobId=2809004062&geoId=91000000&keywords=visa%20support%20software%20developer&location=European%20Union).
 
 **Note:** You can apply the same approach - typing "relocation" followed by your target job title in the search bar - to other sites (e.g., Indeed or Glassdoor) that, like LinkedIn, have no filter for relocation. Of course, you will find some jobs that don't offer relocation or are not quite what you are looking for, but overall using relevant keywords does a good job at filtering them out. 
 
 
 # 🔖 International recruitment agencies
-* [Relocateme.eu](https://relocateme.eu/) - for software engineer jobs with European startups and well-established tech companies.
-* [Global Skills Hub](https://www.globalskills.io/) – for remote and relocation jobs with Canada's top tech companies. 
+* [Global {M}](https://globalm.io/) – jobs with European tech companies 
+* [Global Skills Hub](https://www.globalskills.io/) – remote and relocation jobs with Canada's top tech companies
+* [Nederlia](https://nederlia.com/) – tech & product roles at starups and scaleups in Europe
+* [Ravecruitment](https://www.ravecruitment.com/) – IT jobs in the Netherlands
+* [Relocateme.eu](https://relocateme.eu/) – software engineer jobs with European startups and well-established tech companies
+
 
 
 # 🏢 Companies hiring internationally
