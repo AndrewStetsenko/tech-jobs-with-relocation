@@ -13,7 +13,7 @@ Hopefully, this handbook will give you the necessary guidance. Topics covered in
 
 
 # 📝 Resume preparation
-A well-written and concise resume is an essential ingredient of a successful job hunt. Here's a list of articles, resources & tools to help you 👇
+A well-written and concise resume is an essential ingredient of a successful job hunt. Here's a list of articles, resources & tools to help you:
 
 * [Ways to upgrade that should lead to getting more job interviews](https://relocate.me/blog/resume-interview-tips/10-data-driven-ways-to-use-your-developer-resume-to-get-interviews/)
 * [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
