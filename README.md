@@ -41,7 +41,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [SwissDevJobs](https://swissdevjobs.ch): For those looking to move to Switzerland, SwissDev Jobs is a great place to turn. The website allows you to easily locate developer jobs anywhere in Switzerland. In order to filter it to only jobs with relocation, you simply need to check the filter box for "Visa sponsorship for non-EU residents."
 * [TokyoDev](https://www.tokyodev.com/jobs/): The site is dedicated to helping international developers start and grow their career in Japan. Among other things, you will find a list of job offerings from local employers that are open to hiring foreign, English-speaking techies.  
 * [Japan Dev](https://japan-dev.com/japan-jobs-relocation): A hand-curated job board for tech roles in Japan.
-
+* [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation): Jobs with relocation / visa sponsorship for Europe, with salary information.
 
 # 🔖 Other places to check during the search
 * "Who's hiring?" monthly thread on Hacker News. Here's a link to the latest one: https://news.ycombinator.com/item?id=29782099. Use the search feature (Command/Ctrl + F) to find job offerings with the keyword "visa."
@@ -112,6 +112,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🔨 [Calculators to estimate your after-taxes paycheck in 25 countries](https://relocate.me/net-pay-calculators/)
 * 🎥 [5 mistakes you are making in negotiating your developer salary](https://youtu.be/s_vxsu5nsjw)
 * [Typical relocation packages](https://relocate.me/learning-center/relocation-packages)
+* [Salary Calculator for Germany in English](https://www.arbeitnow.com/tools/salary-calculator/germany)
 
 
 # ✈️ Relocation 
