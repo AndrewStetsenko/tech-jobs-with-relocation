@@ -55,6 +55,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 # 🔖 International recruitment agencies
 * [Global {M}](https://globalm.io/) – jobs with European tech companies 
 * [Global Skills Hub](https://www.globalskills.io/) – remote and relocation jobs with Canada's top tech companies
+* [Kold+Partners](https://www.koldpartners.com/en/jobs/) – tech jobs in Denmark
 * [Nederlia](https://nederlia.com/) – tech & product roles at starups and scaleups in Europe
 * [Ravecruitment](https://www.ravecruitment.com/) – IT jobs in the Netherlands
 * [Relocateme.eu](https://relocateme.eu/) – software engineer jobs with European startups and well-established tech companies
@@ -91,6 +92,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
 | Polarsteps | Amsterdam 🇳🇱 | https://careers.polarsteps.com |
+| QuadSAT | Odense 🇩🇰 | https://quadsat.com/career/ |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Savage Interactive | Hobart 🇦🇺 | https://savage.si/#jobs |
 | Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com/ |
