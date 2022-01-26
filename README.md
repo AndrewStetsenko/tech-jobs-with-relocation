@@ -82,6 +82,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
 | Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
+| LINKIT | Utrecht 🇳🇱 | https://www.linkit.nl/en/vacancies |
 | Luko | Paris 🇫🇷 | https://careers.luko.eu |
 | Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
 | Miro | Amsterdam 🇳🇱 <br> Berlin 🇩🇪 | https://miro.com/careers |
