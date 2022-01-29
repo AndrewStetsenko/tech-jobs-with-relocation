@@ -59,6 +59,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Nederlia](https://nederlia.com/) – tech & product roles at starups and scaleups in Europe
 * [Ravecruitment](https://www.ravecruitment.com/) – IT jobs in the Netherlands
 * [Relocateme.eu](https://relocateme.eu/) – software engineer jobs with European startups and well-established tech companies
+* [Zero to One Search](https://jobs.zerotoonesearch.com/careers) – IT jobs in Germany
 
 
 
@@ -135,4 +136,5 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Iran 🇮🇷 → London, UK 🇬🇧](https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/)
 * [Ukraine 🇺🇦 → Tallinn, Estonia 🇪🇪](https://relocate.me/blog/expat-stories/moving-to-estonia-for-work/)
 * [Lebanon 🇱🇧 → Milan, Italy 🇮🇹](https://relocate.me/blog/expat-stories/moving-to-italy-for-a-tech-job/)
+* [Germany 🇩🇪 → Zurich, Switzerland 🇨🇭](https://iwangulenko.medium.com/eight-reasons-why-i-moved-to-switzerland-to-work-in-it-c7ac18af4f90)
 * [Brazil 🇧🇷 → Lisbon, Portugal 🇵🇹](https://youtu.be/yx1xbn7WLzY) 
