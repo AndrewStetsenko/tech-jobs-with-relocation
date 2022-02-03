@@ -86,6 +86,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
 | LINKIT | Utrecht 🇳🇱 | https://www.linkit.nl/en/vacancies |
 | Luko | Paris 🇫🇷 | https://careers.luko.eu |
+| Meister | Vienna 🇦🇹 | https://www.meisterlabs.com/jobs |
 | Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
 | Miro | Amsterdam 🇳🇱 <br> Berlin 🇩🇪 | https://miro.com/careers |
 | Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
