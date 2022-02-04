@@ -121,16 +121,24 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🔨 [interviewing.io](https://interviewing.io/): Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies.
 * 🔨 [LeetCode](https://leetcode.com/): A great place to practice solving coding problems and prepare for technical interviews. 
 
-# 🤝 Compensation negotiation
+# 💰 Compensation negotiation
 * [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/job-search/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
 * 🔨 [Calculators to estimate your after-taxes paycheck in 25 countries](https://relocate.me/net-pay-calculators/)
 * 🎥 [5 mistakes you are making in negotiating your developer salary](https://youtu.be/s_vxsu5nsjw)
 * [Typical relocation packages](https://relocate.me/learning-center/relocation-packages)
 
 
+# 🗺 Work permits & visas 
+* 🌍 [Info on work permits & visas for different countries](https://relocate.me/learning-center/work-permit-and-visa)
+* 🇪🇺 [EU Blue Card (essential information)](https://ec.europa.eu/immigration/blue-card/essential-information_en)
+* 🇨🇦 [Canadian immigration for tech workers: Express Entry, PNPs, and work permits](https://www.cicnews.com/2021/03/tech-workers-have-multiple-pathways-to-immigrate-to-canada-0317260.html#gs.o28ko6)
+* 🇬🇧 [Everything you need to know about the UK Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
+* 🇬🇧 [A list of UK companies licensed to sponsor workers on the Skilled Worker (formerly Tier 2) immigration route](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/980172/2021-04-26_Tier_2_5_Register_of_Sponsors.pdf)
+* 🇸🇬 [An overview of Singapore immigration visa schemes](https://www.guidemesingapore.com/business-guides/immigration/singapore-visa/singapore-immigration-visa-schemes#:~:text=The%20Employment%20Pass%20(EP)%20is,will%20be%20working%20in%20Singapore.&text=Validity%3A%20An%20EP%20is%20initially,be%20employed%20by%20the%20company)
+
+
 # ✈️ Relocation 
 * [Tips for successful job relocation](https://relocate.me/learning-center/relocation-process)
-* [Info on work permits & visas for different countries](https://relocate.me/learning-center/work-permit-and-visa)
 * [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
 * [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
 * [Everything you need to know before moving to Berlin](https://www.deliveryhero.com/blog/moving-to-berlin/) 
