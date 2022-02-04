@@ -18,7 +18,6 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Ways to upgrade that should lead to getting more job interviews](https://relocate.me/blog/resume-interview-tips/10-data-driven-ways-to-use-your-developer-resume-to-get-interviews/)
 * [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 * 🎥 [The resume that got me into Google and Bloomberg (software engineer resume tips)](https://youtu.be/aHB8bx4P7TE)
-* [40 words to spice up your developer resume](https://cvcompiler.com/blog/40-words-to-spice-up-your-developer-resume/)
 * [How to improve your developer resume's bullet points](https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/)
 * 🔨 [CV Compiler](https://cvcompiler.com/): The app scans your resume for weak spots and suggests immediate, personalized improvements.
 * 🔨 [Standard Resume](https://standardresume.co/1): A modern web app for creating a beautiful resume quickly. The application takes care of the design and layout of your resume, allowing you to focus on the content. 
@@ -32,6 +31,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [The best day and time to apply for a job online](https://careersidekick.com/whats-the-best-day-to-apply-for-jobs-online/)
 * [When (and when not) to include a cover letter](https://www.thebalancecareers.com/should-you-include-a-cover-letter-if-it-s-not-required-2060291)
 * [How to write a cover letter as a software developer (cover letter included)](https://learnitmyway.medium.com/how-to-write-a-cover-letter-as-a-software-developer-cover-letter-and-cv-included-2190e0d23e97)
+* [How Boolean searching can help your international job hunt](https://relocate.me/blog/job-search/how-to-find-unadvertised-tech-jobs/)
 
 
 # 🔖 Niche job boards that have a filter for relocation
@@ -147,9 +147,9 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 
 # 💬 Expat stories
-* [India 🇮🇳 → Tokyo, Japan 🇯🇵](https://relocate.me/blog/expat-stories/moving-to-japan-for-an-it-job-rupeshs-relocation-story/)
-* [Iran 🇮🇷 → London, UK 🇬🇧](https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/)
-* [Ukraine 🇺🇦 → Tallinn, Estonia 🇪🇪](https://relocate.me/blog/expat-stories/moving-to-estonia-for-work/)
-* [Lebanon 🇱🇧 → Milan, Italy 🇮🇹](https://relocate.me/blog/expat-stories/moving-to-italy-for-a-tech-job/)
 * [Germany 🇩🇪 → Zurich, Switzerland 🇨🇭](https://iwangulenko.medium.com/eight-reasons-why-i-moved-to-switzerland-to-work-in-it-c7ac18af4f90)
+* [Ukraine 🇺🇦 → Tallinn, Estonia 🇪🇪](https://relocate.me/blog/expat-stories/moving-to-estonia-for-work/)
+* [Iran 🇮🇷 → London, UK 🇬🇧](https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/)
+* [India 🇮🇳 → Tokyo, Japan 🇯🇵](https://relocate.me/blog/expat-stories/moving-to-japan-for-an-it-job-rupeshs-relocation-story/)
+* [Lebanon 🇱🇧 → Milan, Italy 🇮🇹](https://relocate.me/blog/expat-stories/moving-to-italy-for-a-tech-job/)
 * [Brazil 🇧🇷 → Lisbon, Portugal 🇵🇹](https://youtu.be/yx1xbn7WLzY) 
