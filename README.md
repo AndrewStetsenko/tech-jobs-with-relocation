@@ -62,12 +62,14 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Zero to One Search](https://jobs.zerotoonesearch.com/careers) – IT jobs in Germany
 
 
-
 # 🏢 Companies hiring internationally
 
-| Company name | Tech job locations | Careers page |  
+| Company name | Locations | Careers page |  
 |-------|--------------|---------------|
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
+| Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
+| ByteDance | Singapore 🇸🇬 | https://jobs.bytedance.com/en |
+| Canva | Sydney🇦🇺 | https://www.canva.com/careers |
 | Catawiki | Amsterdam 🇳🇱 | https://www.catawiki.com/en/jobs |
 | ChannelEngine | Leiden 🇳🇱 | https://jobs.channelengine.com |
 | Choco | Berlin 🇩🇪 | https://choco.com/careers |
@@ -75,6 +77,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Defined.ai | Lisbon 🇵🇹 | https://www.defined.ai/careers |
 | Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
 | DocPlanner | Barcelona 🇪🇸 <br> Warsaw 🇵🇱 | https://www.docplanner.com/career |
+| Doodle | Berlin 🇩🇪 <br> Zurich 🇨🇭 | https://doodle.teamtailor.com/jobs |
 | EdApp | Sydney 🇦🇺 | https://www.edapp.com/careers |
 | ERIKS Digital | Amsterdam 🇳🇱 | https://careers.eriksdigital.com |
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
@@ -96,10 +99,12 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Polarsteps | Amsterdam 🇳🇱 | https://careers.polarsteps.com |
 | QuadSAT | Odense 🇩🇰 | https://quadsat.com/career/ |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
+| Reaktor | Amsterdam 🇳🇱 | https://www.reaktor.com/careers |
 | Savage Interactive | Hobart 🇦🇺 | https://savage.si/#jobs |
 | Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com/ |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
+| Synergy Sports | Austria 🇦🇹 | https://synergysports.com/careers |
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
 | Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
@@ -129,6 +134,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
 * [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
 * [Everything you need to know before moving to Berlin](https://www.deliveryhero.com/blog/moving-to-berlin/) 
+* [How to move to Berlin, step by step](https://allaboutberlin.com/guides/moving-to-berlin)
 * [Finding housing](https://relocate.me/learning-center/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
 
 
