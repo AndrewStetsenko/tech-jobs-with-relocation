@@ -1,6 +1,6 @@
 # International Tech Job Search Handbook
 
-Relocation to a foreign country for work can be very exciting and lead to unique opportunities that couldn't be accessed in your home country. At the same time, it's a real challenge - I know it firsthand. You mind becomes inundated with questions:
+Relocation to a foreign country for work can be very exciting and lead to unique opportunities that couldn't be accessed in your home country. At the same time, it's a real challenge - I know it firsthand. Your mind becomes inundated with questions:
 
 *	How to prepare a resume?
 * Where to find companies that hire foreign talent?
@@ -97,11 +97,11 @@ A well-written and concise resume is an essential ingredient of a successful job
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
 | Polarsteps | Amsterdam 🇳🇱 | https://careers.polarsteps.com |
-| QuadSAT | Odense 🇩🇰 | https://quadsat.com/career/ |
+| QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Reaktor | Amsterdam 🇳🇱 | https://www.reaktor.com/careers |
 | Savage Interactive | Hobart 🇦🇺 | https://savage.si/#jobs |
-| Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com/ |
+| Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
 | Synergy Sports | Austria 🇦🇹 | https://synergysports.com/careers |
