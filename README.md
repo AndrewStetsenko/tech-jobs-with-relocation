@@ -67,9 +67,10 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Company name | Locations | Careers page |  
 |-------|--------------|---------------|
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
+| Bending Spoons | Milan 🇮🇹 | https://bendingspoons.com/careers.html |
 | Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
 | ByteDance | Singapore 🇸🇬 | https://jobs.bytedance.com/en |
-| Canva | Sydney🇦🇺 | https://www.canva.com/careers |
+| Canva | Sydney 🇦🇺 | https://www.canva.com/careers |
 | Catawiki | Amsterdam 🇳🇱 | https://www.catawiki.com/en/jobs |
 | ChannelEngine | Leiden 🇳🇱 | https://jobs.channelengine.com |
 | Choco | Berlin 🇩🇪 | https://choco.com/careers |
@@ -78,11 +79,15 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
 | DocPlanner | Barcelona 🇪🇸 <br> Warsaw 🇵🇱 | https://www.docplanner.com/career |
 | Doodle | Berlin 🇩🇪 <br> Zurich 🇨🇭 | https://doodle.teamtailor.com/jobs |
+| e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
 | EdApp | Sydney 🇦🇺 | https://www.edapp.com/careers |
 | ERIKS Digital | Amsterdam 🇳🇱 | https://careers.eriksdigital.com |
+| Evotec | Germany (Berlin, Hamburg, Goettingen) 🇩🇪 | https://www.evotec.com/en/career |
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
 | Form3 | London 🇬🇧 | https://www.form3.tech/careers |
 | fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
+| Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
+| Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
 | Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
 | Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
@@ -94,21 +99,31 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Miro | Amsterdam 🇳🇱 <br> Berlin 🇩🇪 | https://miro.com/careers |
 | Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
 | Mujin | Tokyo 🇯🇵 | https://www.mujin.co.jp/en/recruit |
+| New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
+| Personio | Munich 🇩🇪 | https://www.personio.com/about-personio/careers |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
 | Polarsteps | Amsterdam 🇳🇱 | https://careers.polarsteps.com |
+| Qonto | Paris 🇫🇷  | https://qonto.com/en/careers |
 | QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Reaktor | Amsterdam 🇳🇱 | https://www.reaktor.com/careers |
+| Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
 | Savage Interactive | Hobart 🇦🇺 | https://savage.si/#jobs |
+| Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
 | Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com |
+| Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
+| Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
+| Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
 | Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
 | Synergy Sports | Austria 🇦🇹 | https://synergysports.com/careers |
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
 | Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
+| Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
+| Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
 | Zenjob | Berlin 🇩🇪 | https://boards.greenhouse.io/zenjob |
 | Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
 
