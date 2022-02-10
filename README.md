@@ -96,6 +96,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
+| KidsLoop | South Korea (Seoul) 🇰🇷 | https://kidsloop.co.id/about-us/?lang=en |
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
 | Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
