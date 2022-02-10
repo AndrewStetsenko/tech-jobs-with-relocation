@@ -66,6 +66,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 | Company name | Locations | Careers page |  
 |-------|--------------|---------------|
+| Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
 | Bending Spoons | Milan 🇮🇹 | https://bendingspoons.com/careers.html |
 | BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
@@ -89,6 +90,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
 | Form3 | London 🇬🇧 | https://www.form3.tech/careers |
 | fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
+| Glia | Tallinn 🇪🇪 | https://www.glia.com/jobs |
 | Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
 | Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
 | Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
