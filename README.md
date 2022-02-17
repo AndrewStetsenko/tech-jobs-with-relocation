@@ -80,6 +80,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
 | Defined.ai | Lisbon 🇵🇹 | https://www.defined.ai/careers |
 | Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
+| Docler Holding  | Luxembourg 🇱🇺 | https://careers.smartrecruiters.com/DoclerHolding |
 | DocPlanner | Barcelona 🇪🇸 <br> Warsaw 🇵🇱 | https://www.docplanner.com/career |
 | Doodle | Berlin 🇩🇪 <br> Zurich 🇨🇭 | https://doodle.teamtailor.com/jobs |
 | Dott | Amsterdam 🇳🇱 <br> Paris 🇫🇷 | https://ridedott.com/careers |
@@ -94,10 +95,11 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
 | Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
 | Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
+| HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
 | KidsLoop | South Korea (Seoul) 🇰🇷 | https://kidsloop.co.id/about-us/?lang=en |
-| Klarna | Germany (Berlin, Giessen) 🇩🇪 <br> Sweden (Stockholm, Gothenburg) 🇸🇪 | https://jobs.lever.co/klarna/?team=Engineering|
+| Klarna | Germany (Berlin, Giessen) 🇩🇪 <br> Sweden (Stockholm, Gothenburg) 🇸🇪 | https://jobs.lever.co/klarna/?team=Engineering |
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
 | Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
@@ -115,6 +117,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Personio | Munich 🇩🇪 | https://www.personio.com/about-personio/careers |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
+| Podium North | Tallinn 🇪🇪 | https://www.linkedin.com/company/podium-north/jobs |
 | Polarsteps | Amsterdam 🇳🇱 | https://careers.polarsteps.com |
 | Qonto | Paris 🇫🇷  | https://qonto.com/en/careers |
 | QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
@@ -131,11 +134,14 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
 | Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
 | Synergy Sports | Austria 🇦🇹 | https://synergysports.com/careers |
+| Talkwalker  | Luxembourg 🇱🇺 | https://www.talkwalker.com/careers |
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
+| ToolTime | Berlin 🇩🇪 | https://www.tooltime.de/jobs |
 | Truecaller | Stockholm 🇸🇪 | https://careers.truecaller.com |
 | Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
+| WiseTech | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
 | XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
 | Zenjob | Berlin 🇩🇪 | https://boards.greenhouse.io/zenjob |
