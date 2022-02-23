@@ -66,6 +66,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 | Company name | Locations | Careers page |  
 |-------|--------------|---------------|
+| Akur8 | Paris 🇫🇷 | https://akur8.com/careers |
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
 | Bending Spoons | Milan 🇮🇹 | https://bendingspoons.com/careers.html |
