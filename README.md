@@ -71,6 +71,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
 | Bending Spoons | Milan 🇮🇹 | https://bendingspoons.com/careers.html |
 | BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
+| Booking.com | Amsterdam 🇳🇱 | https://jobs.booking.com/careers |
 | Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
 | ByteDance | Singapore 🇸🇬 | https://jobs.bytedance.com/en |
 | Canva | Sydney 🇦🇺 | https://www.canva.com/careers |
