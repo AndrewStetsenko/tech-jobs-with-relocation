@@ -85,6 +85,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Doodle | Berlin 🇩🇪 <br> Zurich 🇨🇭 | https://doodle.teamtailor.com/jobs |
 | Dott | Amsterdam 🇳🇱 <br> Paris 🇫🇷 | https://ridedott.com/careers |
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
+| Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
 | EdApp | Sydney 🇦🇺 | https://www.edapp.com/careers |
 | ERIKS Digital | Amsterdam 🇳🇱 | https://careers.eriksdigital.com |
 | Evotec | Germany (Berlin, Hamburg, Goettingen) 🇩🇪 | https://www.evotec.com/en/career |
@@ -139,10 +140,11 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
 | ToolTime | Berlin 🇩🇪 | https://www.tooltime.de/jobs |
 | Truecaller | Stockholm 🇸🇪 | https://careers.truecaller.com |
+| VanMoof | Amsterdam 🇳🇱 <br> Taipei 🇹🇼 | https://www.vanmoof.com/careers |
 | Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
-| WiseTech | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
+| WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
 | XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
 | Zenjob | Berlin 🇩🇪 | https://boards.greenhouse.io/zenjob |
