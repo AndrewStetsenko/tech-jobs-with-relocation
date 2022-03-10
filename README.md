@@ -41,7 +41,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [SwissDevJobs](https://swissdevjobs.ch): For those looking to move to Switzerland, SwissDev Jobs is a great place to turn. The website allows you to easily locate developer jobs anywhere in Switzerland. In order to filter it to only jobs with relocation, you simply need to check the filter box for "Visa sponsorship for non-EU residents."
 * [TokyoDev](https://www.tokyodev.com/jobs/): The site is dedicated to helping international developers start and grow their career in Japan. Among other things, you will find a list of job offerings from local employers that are open to hiring foreign, English-speaking techies.  
 * [Japan Dev](https://japan-dev.com/japan-jobs-relocation): A hand-curated job board for tech roles in Japan.
-* [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation): Jobs with relocation / visa sponsorship for Europe, with salary information.
+* [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation): Europe-based positions with relocation assistance/visa sponsorship & salary info.
 
 # 🔖 Other places to check during the search
 * "Who's hiring?" monthly thread on Hacker News. Here's a link to the latest one: https://news.ycombinator.com/item?id=29782099. Use the search feature (Command/Ctrl + F) to find job offerings with the keyword "visa."
@@ -66,6 +66,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 | Company name | Locations | Careers page |  
 |-------|--------------|---------------|
+| ADASA | Brisbane 🇦🇺 | https://www.adasasystems.com/en/careers.html |
 | Akur8 | Paris 🇫🇷 | https://akur8.com/careers |
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
@@ -85,11 +86,13 @@ A well-written and concise resume is an essential ingredient of a successful job
 | DocPlanner | Barcelona 🇪🇸 <br> Warsaw 🇵🇱 | https://www.docplanner.com/career |
 | Doodle | Berlin 🇩🇪 <br> Zurich 🇨🇭 | https://doodle.teamtailor.com/jobs |
 | Dott | Amsterdam 🇳🇱 <br> Paris 🇫🇷 | https://ridedott.com/careers |
+| doWhile | Gothenburg 🇸🇪 | https://join.dowhile.se/jobs |
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
 | Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
 | EdApp | Sydney 🇦🇺 | https://www.edapp.com/careers |
 | ERIKS Digital | Amsterdam 🇳🇱 | https://careers.eriksdigital.com |
 | Evotec | Germany (Berlin, Hamburg, Goettingen) 🇩🇪 | https://www.evotec.com/en/career |
+| Finceptiv | Tallinn 🇪🇪 | https://www.finceptiv.com/careers |
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
 | Form3 | London 🇬🇧 | https://www.form3.tech/careers |
 | fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
@@ -100,11 +103,13 @@ A well-written and concise resume is an essential ingredient of a successful job
 | HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
+| JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
 | KidsLoop | South Korea (Seoul) 🇰🇷 | https://kidsloop.co.id/about-us/?lang=en |
 | Klarna | Germany (Berlin, Giessen) 🇩🇪 <br> Sweden (Stockholm, Gothenburg) 🇸🇪 | https://jobs.lever.co/klarna/?team=Engineering |
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
 | Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
+| Lightspeed | Sydney 🇦🇺 | https://www.lightspeedhq.com/careers/overview |
 | LINKIT | Utrecht 🇳🇱 | https://www.linkit.nl/en/vacancies |
 | Luko | Paris 🇫🇷 | https://careers.luko.eu |
 | Meister | Vienna 🇦🇹 | https://www.meisterlabs.com/jobs |
@@ -136,16 +141,20 @@ A well-written and concise resume is an essential ingredient of a successful job
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
 | Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
-| Synergy Sports | Austria 🇦🇹 | https://synergysports.com/careers |
+| Swisscom | Rotterdam 🇳🇱 | https://swisscom.bamboohr.com/jobs |
+| Synergy Sports | Vienna 🇦🇹 <br> Warsaw 🇵🇱| https://synergysports.com/careers |
 | Talkwalker  | Luxembourg 🇱🇺 | https://www.talkwalker.com/careers |
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
 | ToolTime | Berlin 🇩🇪 | https://www.tooltime.de/jobs |
 | Truecaller | Stockholm 🇸🇪 | https://careers.truecaller.com |
+| UpTeam | Prague 🇨🇿 | https://upteam.com/careers |
 | VanMoof | Amsterdam 🇳🇱 <br> Taipei 🇹🇼 | https://www.vanmoof.com/careers |
 | Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
+| Visma | Riga 🇱🇻 | https://www.visma.lv/vakances |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
+| Wonderkind | Amsterdam 🇳🇱 | https://wonderkind.recruitee.com |
 | XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
 | Zenjob | Berlin 🇩🇪 | https://boards.greenhouse.io/zenjob |
