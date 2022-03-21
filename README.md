@@ -103,6 +103,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
+| Hubs | Amsterdam 🇳🇱 | https://www.hubs.com/jobs |
 | JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
 | KidsLoop | South Korea (Seoul) 🇰🇷 | https://kidsloop.co.id/about-us/?lang=en |
 | Klarna | Germany (Berlin, Giessen) 🇩🇪 <br> Sweden (Stockholm, Gothenburg) 🇸🇪 | https://jobs.lever.co/klarna/?team=Engineering |
