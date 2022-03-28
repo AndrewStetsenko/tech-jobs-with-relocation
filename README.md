@@ -43,6 +43,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Japan Dev](https://japan-dev.com/japan-jobs-relocation): A hand-curated job board for tech roles in Japan.
 * [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation): Europe-based positions with relocation assistance/visa sponsorship & salary info.
 
+
 # 🔖 Other places to check during the search
 * "Who's hiring?" monthly thread on Hacker News. Here's a link to the latest one: https://news.ycombinator.com/item?id=29782099. Use the search feature (Command/Ctrl + F) to find job offerings with the keyword "visa."
 * [@Relocateme](http://t.me/relocateme) Telegram channel with daily actual job alerts
@@ -102,6 +103,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
 | HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
+| HotDoc | Australia (Melbourne) 🇦🇺 | https://www.hotdoc.com.au/careers |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
 | Hubs | Amsterdam 🇳🇱 | https://www.hubs.com/jobs |
 | JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
@@ -171,6 +173,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🔨 [interviewing.io](https://interviewing.io/): Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies.
 * 🔨 [LeetCode](https://leetcode.com/): A great place to practice solving coding problems and prepare for technical interviews. 
 
+
 # 💰 Compensation negotiation
 * [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/job-search/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
 * 🔨 [Calculators to estimate your after-taxes paycheck in 25 countries](https://relocate.me/net-pay-calculators/)
@@ -186,6 +189,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🇬🇧 [Everything you need to know about the UK Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
 * 🇬🇧 [A list of UK companies licensed to sponsor workers on the Skilled Worker (formerly Tier 2) immigration route](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/980172/2021-04-26_Tier_2_5_Register_of_Sponsors.pdf)
 * 🇸🇬 [An overview of Singapore immigration visa schemes](https://www.guidemesingapore.com/business-guides/immigration/singapore-visa/singapore-immigration-visa-schemes#:~:text=The%20Employment%20Pass%20(EP)%20is,will%20be%20working%20in%20Singapore.&text=Validity%3A%20An%20EP%20is%20initially,be%20employed%20by%20the%20company)
+* 🇦🇺 [How to Migrate to Australia as a Software Engineer](https://ausdirectmigration.com/how-to-migrate-to-australia-as-a-software-engineer/)
 
 
 # ✈️ Relocation 
