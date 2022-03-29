@@ -148,7 +148,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
 | ToolTime | Berlin 🇩🇪 | https://www.tooltime.de/jobs |
 | Truecaller | Stockholm 🇸🇪 | https://careers.truecaller.com |
-| Uphold | Porto, Portugal 🇵🇹 <br> Braga, Portugal 🇵🇹 | https://uphold.com/careers |
+| Uphold | Portugal (Porto, Braga) 🇵🇹 | https://uphold.com/careers |
 | UpTeam | Prague 🇨🇿 | https://upteam.com/careers |
 | VanMoof | Amsterdam 🇳🇱 <br> Taipei 🇹🇼 | https://www.vanmoof.com/careers |
 | Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
