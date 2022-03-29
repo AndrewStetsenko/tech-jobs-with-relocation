@@ -72,6 +72,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
 | Bending Spoons | Milan 🇮🇹 | https://bendingspoons.com/careers.html |
 | BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
+| Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |
 | Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
 | ByteDance | Singapore 🇸🇬 | https://jobs.bytedance.com/en |
 | Canva | Sydney 🇦🇺 | https://www.canva.com/careers |
@@ -95,6 +96,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Evotec | Germany (Berlin, Hamburg, Goettingen) 🇩🇪 | https://www.evotec.com/en/career |
 | Finceptiv | Tallinn 🇪🇪 | https://www.finceptiv.com/careers |
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
+| Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |
 | Form3 | London 🇬🇧 | https://www.form3.tech/careers |
 | fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
 | Glia | Tallinn 🇪🇪 | https://www.glia.com/jobs |
@@ -150,6 +152,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Talkwalker  | Luxembourg 🇱🇺 | https://www.talkwalker.com/careers |
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
 | ToolTime | Berlin 🇩🇪 | https://www.tooltime.de/jobs |
+| Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
 | Truecaller | Stockholm 🇸🇪 | https://careers.truecaller.com |
 | Uphold | Portugal (Porto, Braga) 🇵🇹 | https://uphold.com/careers |
 | UpTeam | Prague 🇨🇿 | https://upteam.com/careers |
