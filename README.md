@@ -80,6 +80,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Choco | Berlin 🇩🇪 | https://choco.com/careers |
 | Contentful | Berlin 🇩🇪 | https://www.contentful.com/careers |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
+| DASH | Hoofddorp 🇳🇱 | https://thisisdash.com/careers |
 | Defined.ai | Lisbon 🇵🇹 | https://www.defined.ai/careers |
 | Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
 | Docler Holding  | Luxembourg 🇱🇺 | https://careers.smartrecruiters.com/DoclerHolding |
@@ -122,6 +123,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Mujin | Tokyo 🇯🇵 | https://www.mujin.co.jp/en/recruit |
 | New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
+| P&M | Hamburg 🇩🇪 | https://pm-team.jobs.personio.de |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Personio | Munich 🇩🇪 | https://www.personio.com/about-personio/careers |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
@@ -131,7 +133,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Qonto | Paris 🇫🇷  | https://qonto.com/en/careers |
 | QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
-| Reaktor | Amsterdam 🇳🇱 | https://www.reaktor.com/careers |
+| Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers |
 | ResearchGate | Berlin 🇩🇪 | https://www.researchgate.net/careers |
 | Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
 | Savage Interactive | Hobart 🇦🇺 | https://savage.si/#jobs |
