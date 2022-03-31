@@ -68,6 +68,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Company name | Locations | Careers page |  
 |-------|--------------|---------------|
 | ADASA | Brisbane 🇦🇺 | https://www.adasasystems.com/en/careers.html |
+| ARHS Developments | Luxembourg 🇱🇺 <br> Brussels 🇧🇪 | https://www.arhs-group.com/careers |
 | Akur8 | Paris 🇫🇷 | https://akur8.com/careers |
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
@@ -94,6 +95,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
 | EdApp | Sydney 🇦🇺 | https://www.edapp.com/careers |
 | ERIKS Digital | Amsterdam 🇳🇱 | https://careers.eriksdigital.com |
+| EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |
 | Evotec | Germany (Berlin, Hamburg, Goettingen) 🇩🇪 | https://www.evotec.com/en/career |
 | Finceptiv | Tallinn 🇪🇪 | https://www.finceptiv.com/careers |
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
@@ -125,6 +127,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
 | Monzo | London 🇬🇧 | https://monzo.com/careers |
 | Mujin | Tokyo 🇯🇵 | https://www.mujin.co.jp/en/recruit |
+| NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | P&M | Hamburg 🇩🇪 | https://pm-team.jobs.personio.de |
