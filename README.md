@@ -106,7 +106,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
 | HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
-| HotDoc | Australia (Melbourne) 🇦🇺 | https://www.hotdoc.com.au/careers |
+| HotDoc | Melbourne 🇦🇺 | https://www.hotdoc.com.au/careers |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
 | Hubs | Amsterdam 🇳🇱 | https://www.hubs.com/jobs |
 | JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
