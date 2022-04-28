@@ -147,6 +147,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers |
 | ResearchGate | Berlin 🇩🇪 | https://www.researchgate.net/careers |
 | Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
+| Sage | Cluj-Napoca 🇷🇴 | https://www.sage.com/en-gb/company/careers |
 | Savage Interactive | Hobart 🇦🇺 | https://savage.si/#jobs |
 | SEEN | Oslo 🇳🇴 | https://apply.workable.com/seenio |
 | Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
