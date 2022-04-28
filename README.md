@@ -102,6 +102,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |
 | Form3 | London 🇬🇧 | https://www.form3.tech/careers |
 | fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
+| Fragcolor | Singapore 🇸🇬 | https://www.linkedin.com/company/fragcolor/jobs |
 | Glia | Tallinn 🇪🇪 | https://www.glia.com/jobs |
 | Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
 | Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
@@ -119,6 +120,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
 | Lightspeed | Sydney 🇦🇺 | https://www.lightspeedhq.com/careers/overview |
+| LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | LINKIT | Utrecht 🇳🇱 | https://www.linkit.nl/en/vacancies |
 | Luko | Paris 🇫🇷 | https://careers.luko.eu |
 | Meister | Vienna 🇦🇹 | https://www.meisterlabs.com/jobs |
@@ -147,6 +149,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | SEEN | Oslo 🇳🇴 | https://apply.workable.com/seenio |
 | Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
 | Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com |
+| Sentinels | Amsterdam 🇳🇱 | https://sentinels.homerun.co/?lang=en |
 | Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
