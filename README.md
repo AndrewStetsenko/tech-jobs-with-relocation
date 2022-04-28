@@ -65,7 +65,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 # 🏢 Companies hiring internationally
 
-| Company name | Locations | Careers page |  
+| Company name | Location(s) | Careers page |  
 |-------|--------------|---------------|
 | ADASA | Brisbane 🇦🇺 | https://www.adasasystems.com/en/careers.html |
 | ARHS Developments | Luxembourg 🇱🇺 <br> Brussels 🇧🇪 | https://www.arhs-group.com/careers |
@@ -112,6 +112,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | HotDoc | Melbourne 🇦🇺 | https://www.hotdoc.com.au/careers |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
 | Hubs | Amsterdam 🇳🇱 | https://www.hubs.com/jobs |
+| Intropic | London 🇬🇧 | https://jobs.lever.co/intropic |
 | JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
 | Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
 | KidsLoop | South Korea (Seoul) 🇰🇷 | https://kidsloop.co.id/about-us/?lang=en |
@@ -132,6 +133,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
+| Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
 | P&M | Hamburg 🇩🇪 | https://pm-team.jobs.personio.de |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Personio | Munich 🇩🇪 | https://www.personio.com/about-personio/careers |
@@ -162,6 +164,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | ToolTime | Berlin 🇩🇪 | https://www.tooltime.de/jobs |
 | Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
 | Truecaller | Stockholm 🇸🇪 | https://careers.truecaller.com |
+| TuSimple | United States 🇺🇸 | https://www.tusimple.com/careers |
 | Uphold | Portugal (Porto, Braga) 🇵🇹 | https://uphold.com/careers |
 | UpTeam | Prague 🇨🇿 | https://upteam.com/careers |
 | VanMoof | Amsterdam 🇳🇱 <br> Taipei 🇹🇼 | https://www.vanmoof.com/careers |
