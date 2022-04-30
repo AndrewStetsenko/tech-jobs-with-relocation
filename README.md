@@ -117,6 +117,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
 | KidsLoop | South Korea (Seoul) 🇰🇷 | https://kidsloop.co.id/about-us/?lang=en |
 | Klarna | Germany (Berlin, Giessen) 🇩🇪 <br> Sweden (Stockholm, Gothenburg) 🇸🇪 | https://jobs.lever.co/klarna/?team=Engineering |
+| Klarx | Munich 🇩🇪 | https://www.klarx.de/en/jobs |
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
 | Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
@@ -162,6 +163,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Synergy Sports | Vienna 🇦🇹 <br> Warsaw 🇵🇱| https://synergysports.com/careers |
 | Talkwalker  | Luxembourg 🇱🇺 | https://www.talkwalker.com/careers |
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
+| The LEGO Group | Denmark (Billund, Copenhagen) 🇩🇰 | https://www.lego.com/da-dk/careers/search |
 | ToolTime | Berlin 🇩🇪 | https://www.tooltime.de/jobs |
 | Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
 | Truecaller | Stockholm 🇸🇪 | https://careers.truecaller.com |
