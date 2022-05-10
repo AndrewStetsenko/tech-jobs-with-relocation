@@ -163,6 +163,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Synergy Sports | Vienna 🇦🇹 <br> Warsaw 🇵🇱| https://synergysports.com/careers |
 | Talkwalker  | Luxembourg 🇱🇺 | https://www.talkwalker.com/careers |
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
+| Taxfix | Berlin 🇩🇪 <br> Madrid 🇪🇸 | https://taxfix.de/en/careers |
 | The LEGO Group | Denmark (Billund, Copenhagen) 🇩🇰 | https://www.lego.com/da-dk/careers/search |
 | ToolTime | Berlin 🇩🇪 | https://www.tooltime.de/jobs |
 | Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
@@ -173,7 +174,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | VanMoof | Amsterdam 🇳🇱 <br> Taipei 🇹🇼 | https://www.vanmoof.com/careers |
 | Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
-| Visma | Riga 🇱🇻 | https://www.visma.lv/vakances |
+| Visma | Latvia (Riga) 🇱🇻 <br> Romania (Timisoara) 🇷🇴| https://www.visma.lv/vakances |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
 | Wonderkind | Amsterdam 🇳🇱 | https://wonderkind.recruitee.com |
