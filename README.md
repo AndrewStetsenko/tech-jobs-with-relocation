@@ -68,6 +68,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Company name | Location(s) | Careers page |  
 |-------|--------------|---------------|
 | ADASA | Brisbane 🇦🇺 | https://www.adasasystems.com/en/careers.html |
+| APG | Amsterdam 🇳🇱 | https://werkenbij.apg.nl/en/job-openings |
 | ARHS Developments | Luxembourg 🇱🇺 <br> Brussels 🇧🇪 | https://www.arhs-group.com/careers |
 | Akur8 | Paris 🇫🇷 | https://akur8.com/careers |
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
@@ -108,6 +109,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
 | Greyp Bikes | Croatia (Sveta Nedelja) 🇭🇷 | https://greyp-bikes.talentlyft.com |
 | HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
+| Hesehus | Odense 🇩🇰 | https://www.hesehus.com/career/jobs |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
 | HotDoc | Melbourne 🇦🇺 | https://www.hotdoc.com.au/careers |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
