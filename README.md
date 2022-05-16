@@ -180,7 +180,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Visma | Latvia (Riga) 🇱🇻 <br> Romania (Timisoara) 🇷🇴| https://www.visma.lv/vakances |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
-| Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=oldest |
+| Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=newest |
 | Wonderkind | Amsterdam 🇳🇱 | https://wonderkind.recruitee.com |
 | XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
