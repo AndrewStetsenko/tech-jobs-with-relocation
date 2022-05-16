@@ -157,6 +157,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com |
 | Sentinels | Amsterdam 🇳🇱 | https://sentinels.homerun.co/?lang=en |
 | Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
+| Skyscanner | UK (London, Scotland) 🇬🇧 | https://www.skyscanner.net/jobs/current-jobs/ |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
@@ -179,6 +180,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Visma | Latvia (Riga) 🇱🇻 <br> Romania (Timisoara) 🇷🇴| https://www.visma.lv/vakances |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
+| Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=oldest |
 | Wonderkind | Amsterdam 🇳🇱 | https://wonderkind.recruitee.com |
 | XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
