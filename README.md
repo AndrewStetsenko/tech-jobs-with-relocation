@@ -80,6 +80,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | ByteDance | Singapore 🇸🇬 | https://jobs.bytedance.com/en |
 | Canva | Sydney 🇦🇺 | https://www.canva.com/careers |
 | Catawiki | Amsterdam 🇳🇱 | https://www.catawiki.com/en/jobs |
+| Change | Tallinn 🇪🇪 | https://www.changeinvest.com/careers#jobs |
 | ChannelEngine | Leiden 🇳🇱 | https://jobs.channelengine.com |
 | Choco | Berlin 🇩🇪 | https://choco.com/careers |
 | Contentful | Berlin 🇩🇪 | https://www.contentful.com/careers |
