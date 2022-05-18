@@ -104,6 +104,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Form3 | London 🇬🇧 | https://www.form3.tech/careers |
 | fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
 | Fragcolor | Singapore 🇸🇬 | https://www.linkedin.com/company/fragcolor/jobs |
+| GeoPhy | The Hague 🇳🇱 | https://geophy.com/careers |
 | Glia | Tallinn 🇪🇪 | https://www.glia.com/jobs |
 | Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
 | Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
@@ -164,7 +165,8 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
 | Swisscom | Rotterdam 🇳🇱 | https://swisscom.bamboohr.com/jobs |
 | Synergy Sports | Vienna 🇦🇹 <br> Warsaw 🇵🇱| https://synergysports.com/careers |
-| Talkwalker  | Luxembourg 🇱🇺 | https://www.talkwalker.com/careers |
+| Tactile Games | Copenhagen 🇩🇰 | https://tactilegames.com/careers |
+| Talkwalker | Luxembourg 🇱🇺 | https://www.talkwalker.com/careers |
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
 | Taxfix | Berlin 🇩🇪 <br> Madrid 🇪🇸 | https://taxfix.de/en/careers |
 | The LEGO Group | Denmark (Billund, Copenhagen) 🇩🇰 | https://www.lego.com/da-dk/careers/search |
