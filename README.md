@@ -60,6 +60,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Nederlia](https://nederlia.com/) – tech & product roles at starups and scaleups in Europe
 * [Ravecruitment](https://www.ravecruitment.com/) – IT jobs in the Netherlands
 * [Relocateme.eu](https://relocateme.eu/) – software engineer jobs with European startups and well-established tech companies
+* [Toughbyte](https://www.toughbyte.com/positions) – dev job opportunities in EU countries 
 * [Zero to One Search](https://jobs.zerotoonesearch.com/careers) – IT jobs in Germany
 
 
@@ -113,6 +114,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
 | Hesehus | Odense 🇩🇰 | https://www.hesehus.com/career/jobs |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
+| Holidu | Munich 🇩🇪 | https://www.holidu.com/careers/list |
 | HotDoc | Melbourne 🇦🇺 | https://www.hotdoc.com.au/careers |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
 | Hubs | Amsterdam 🇳🇱 | https://www.hubs.com/jobs |
@@ -128,7 +130,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Lightspeed | Sydney 🇦🇺 | https://www.lightspeedhq.com/careers/overview |
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | LINKIT | Utrecht 🇳🇱 | https://www.linkit.nl/en/vacancies |
-| Luko | Paris 🇫🇷 | https://careers.luko.eu |
+| Luko | Paris 🇫🇷 <br> Berlin 🇩🇪 <br> Madrid 🇪🇸 | https://careers.luko.eu |
 | Meister | Vienna 🇦🇹 | https://www.meisterlabs.com/jobs |
 | Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
 | Miro | Amsterdam 🇳🇱 <br> Berlin 🇩🇪 | https://miro.com/careers |
@@ -138,6 +140,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
+| Open Web Technology | Bern 🇨🇭 | https://www.openwt.com/en/join-us |
 | Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
 | P&M | Hamburg 🇩🇪 | https://pm-team.jobs.personio.de |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
