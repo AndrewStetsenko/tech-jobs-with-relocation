@@ -69,6 +69,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Company name | Location(s) | Careers page |  
 |-------|--------------|---------------|
 | ADASA | Brisbane 🇦🇺 | https://www.adasasystems.com/en/careers.html |
+| Amazon | Luxembourg 🇱🇺 <br> Berlin 🇩🇪 | https://www.amazon.jobs/en-gb/job_categories |
 | APG | Amsterdam 🇳🇱 | https://werkenbij.apg.nl/en/job-openings |
 | ARHS Developments | Luxembourg 🇱🇺 <br> Brussels 🇧🇪 | https://www.arhs-group.com/careers |
 | Akur8 | Paris 🇫🇷 | https://akur8.com/careers |
@@ -166,6 +167,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
+| Stockly | Paris 🇫🇷 | https://www.stockly.ai/careers |
 | Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
 | Swisscom | Rotterdam 🇳🇱 | https://swisscom.bamboohr.com/jobs |
 | Synergy Sports | Vienna 🇦🇹 <br> Warsaw 🇵🇱| https://synergysports.com/careers |
@@ -174,6 +176,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Talon.One | Berlin 🇩🇪 | https://www.talon.one/jobs |
 | Taxfix | Berlin 🇩🇪 <br> Madrid 🇪🇸 | https://taxfix.de/en/careers |
 | The LEGO Group | Denmark (Billund, Copenhagen) 🇩🇰 | https://www.lego.com/da-dk/careers/search |
+| Thunes | Barcelona 🇪🇸 | https://www.thunes.com/careers |
 | ToolTime | Berlin 🇩🇪 | https://www.tooltime.de/jobs |
 | Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
 | Truecaller | Stockholm 🇸🇪 | https://careers.truecaller.com |
