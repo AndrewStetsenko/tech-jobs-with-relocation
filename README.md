@@ -42,6 +42,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [TokyoDev](https://www.tokyodev.com/jobs/): The site is dedicated to helping international developers start and grow their career in Japan. Among other things, you will find a list of job offerings from local employers that are open to hiring foreign, English-speaking techies.  
 * [Japan Dev](https://japan-dev.com/japan-jobs-relocation): A hand-curated job board for tech roles in Japan.
 * [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation): Europe-based positions with relocation assistance/visa sponsorship & salary info.
+* [Employment Japan](https://www.employmentjapan.com/): List of jobs for foreigners in Japan, or Japan-related jobs in other countries.
 
 
 # 🔖 Other places to check during the search
