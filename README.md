@@ -87,6 +87,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Choco | Berlin 🇩🇪 | https://choco.com/careers |
 | Contentful | Berlin 🇩🇪 | https://www.contentful.com/careers |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
+| Cosuno | Amsterdam 🇳🇱 | https://www.cosuno.com/company#careers |
 | DASH | Hoofddorp 🇳🇱 | https://thisisdash.com/careers |
 | Defined.ai | Lisbon 🇵🇹 | https://www.defined.ai/careers |
 | Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
@@ -141,7 +142,9 @@ A well-written and concise resume is an essential ingredient of a successful job
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
+| OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
 | Open Web Technology | Bern 🇨🇭 | https://www.openwt.com/en/join-us |
+| Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
 | Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
 | P&M | Hamburg 🇩🇪 | https://pm-team.jobs.personio.de |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
