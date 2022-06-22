@@ -71,7 +71,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | ADASA | Brisbane 🇦🇺 | https://www.adasasystems.com/en/careers.html |
 | Amazon | Luxembourg 🇱🇺 <br> Berlin 🇩🇪 | https://www.amazon.jobs/en-gb/job_categories |
 | APG | Amsterdam 🇳🇱 | https://werkenbij.apg.nl/en/job-openings |
-| ARHS Developments | Luxembourg 🇱🇺 <br> Brussels 🇧🇪 | https://www.arhs-group.com/careers |
+| ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers |
 | Akur8 | Paris 🇫🇷 | https://akur8.com/careers |
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
 | BandLab | Singapore 🇸🇬 | https://apply.workable.com/bandlabtechnologies |
@@ -143,16 +143,16 @@ A well-written and concise resume is an essential ingredient of a successful job
 | New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
-| Open Web Technology | Bern 🇨🇭 | https://www.openwt.com/en/join-us |
 | Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
 | Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
-| P&M | Hamburg 🇩🇪 | https://pm-team.jobs.personio.de |
+| P&M | Germany (Hamburg, Kiel) 🇩🇪 | https://pm-team.jobs.personio.de |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Personio | Munich 🇩🇪 | https://www.personio.com/about-personio/careers |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
 | Podium North | Tallinn 🇪🇪 | https://www.linkedin.com/company/podium-north/jobs |
 | Polarsteps | Amsterdam 🇳🇱 | https://careers.polarsteps.com |
+| Procreate | Hobart 🇦🇺 | https://procreate.art/careers |
 | Qonto | Paris 🇫🇷  | https://qonto.com/en/careers |
 | QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
@@ -160,7 +160,6 @@ A well-written and concise resume is an essential ingredient of a successful job
 | ResearchGate | Berlin 🇩🇪 | https://www.researchgate.net/careers |
 | Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
 | Sage | Cluj-Napoca 🇷🇴 | https://www.sage.com/en-gb/company/careers |
-| Savage Interactive | Hobart 🇦🇺 | https://savage.si/#jobs |
 | SEEN | Oslo 🇳🇴 | https://apply.workable.com/seenio |
 | Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
 | Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com |
