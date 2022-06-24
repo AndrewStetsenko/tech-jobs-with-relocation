@@ -170,7 +170,6 @@ A well-written and concise resume is an essential ingredient of a successful job
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
 | Stockly | Paris 🇫🇷 | https://www.stockly.ai/careers |
-| Stream | Amsterdam 🇳🇱 | https://getstream.io/team |
 | Swisscom | Rotterdam 🇳🇱 | https://swisscom.bamboohr.com/jobs |
 | Synergy Sports | Vienna 🇦🇹 <br> Warsaw 🇵🇱| https://synergysports.com/careers |
 | Tactile Games | Copenhagen 🇩🇰 | https://tactilegames.com/careers |
