@@ -122,6 +122,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Hubs | Amsterdam 🇳🇱 | https://www.hubs.com/jobs |
 | Intropic | London 🇬🇧 | https://jobs.lever.co/intropic |
 | JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
+| Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech |
 | Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
 | KidsLoop | South Korea (Seoul) 🇰🇷 | https://kidsloop.co.id/about-us/?lang=en |
 | Klarna | Germany (Berlin, Giessen) 🇩🇪 <br> Sweden (Stockholm, Gothenburg) 🇸🇪 | https://jobs.lever.co/klarna/?team=Engineering |
