@@ -97,12 +97,12 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Dott | Amsterdam 🇳🇱 <br> Paris 🇫🇷 | https://ridedott.com/careers |
 | doWhile | Gothenburg 🇸🇪 | https://join.dowhile.se/jobs |
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
-| Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
 | EdApp | Sydney 🇦🇺 | https://www.edapp.com/careers |
+| Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |
 | EPAM | United States 🇺🇸 | https://www.epam.com/careers/job-listings |
 | ERIKS Digital | Amsterdam 🇳🇱 | https://careers.eriksdigital.com |
 | EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |
-| Evotec | Germany (Berlin, Hamburg, Goettingen) 🇩🇪 | https://www.evotec.com/en/career |
+| Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
 | Finceptiv | Tallinn 🇪🇪 | https://www.finceptiv.com/careers |
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
 | Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |
@@ -147,7 +147,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
 | Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
 | Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
-| P&M | Germany (Hamburg, Kiel) 🇩🇪 | https://pm-team.jobs.personio.de |
+| P&M | Germany (Hamburg, Kiel, Frankfurt) 🇩🇪 | https://pm-team.jobs.personio.de |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Personio | Munich 🇩🇪 | https://www.personio.com/about-personio/careers |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
