@@ -131,7 +131,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
 | Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
-| Lightspeed | Sydney 🇦🇺 | https://www.lightspeedhq.com/careers/overview |
+| Lightspeed | Sydney 🇦🇺 <br> Auckland 🇳🇿 | https://www.lightspeedhq.com/careers/overview |
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | LINKIT | Utrecht 🇳🇱 | https://www.linkit.nl/en/vacancies |
 | Luko | Paris 🇫🇷 <br> Berlin 🇩🇪 <br> Madrid 🇪🇸 | https://careers.luko.eu |
