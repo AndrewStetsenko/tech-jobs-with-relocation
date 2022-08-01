@@ -218,6 +218,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🎥 [5 mistakes you are making in negotiating your developer salary](https://youtu.be/s_vxsu5nsjw)
 * [Typical relocation packages](https://relocate.me/learning-center/relocation-packages)
 * [Salary Calculator for Germany in English](https://www.arbeitnow.com/tools/salary-calculator/germany)
+* [German Salary Statistical Data](https://lohntastik.de/s/salary-search/) - Median wages in Germany for over 35000 occupations.
 
 
 # 🗺 Work permits & visas 
