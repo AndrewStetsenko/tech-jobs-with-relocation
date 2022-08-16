@@ -91,6 +91,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | DASH | Hoofddorp 🇳🇱 | https://thisisdash.com/careers |
 | Defined.ai | Lisbon 🇵🇹 | https://www.defined.ai/careers |
 | Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
+| Diet Doctor | Stockholm 🇸🇪 | https://careers.dietdoctor.com |
 | Docler Holding  | Luxembourg 🇱🇺 | https://careers.smartrecruiters.com/DoclerHolding |
 | DocPlanner | Barcelona 🇪🇸 <br> Warsaw 🇵🇱 | https://www.docplanner.com/career |
 | Doodle | Berlin 🇩🇪 <br> Zurich 🇨🇭 | https://doodle.teamtailor.com/jobs |
@@ -103,9 +104,11 @@ A well-written and concise resume is an essential ingredient of a successful job
 | ERIKS Digital | Amsterdam 🇳🇱 | https://careers.eriksdigital.com |
 | EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |
 | Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
+| Fashion Cloud | Amsterdam 🇳🇱 <br> Hamburg 🇩🇪 | https://fashion.cloud/en/jobs-en |
 | Finceptiv | Tallinn 🇪🇪 | https://www.finceptiv.com/careers |
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
 | Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |
+| foodspring | Berlin 🇩🇪 | https://www.researchgate.net/careers |
 | Form3 | London 🇬🇧 | https://www.form3.tech/careers |
 | fotograf.de / GotPhoto | Berlin 🇩🇪 | https://fotograf.jobs.personio.de |
 | Fragcolor | Singapore 🇸🇬 | https://www.linkedin.com/company/fragcolor/jobs |
@@ -129,17 +132,20 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Klarna | Germany (Berlin, Giessen) 🇩🇪 <br> Sweden (Stockholm, Gothenburg) 🇸🇪 | https://jobs.lever.co/klarna/?team=Engineering |
 | Klarx | Munich 🇩🇪 | https://www.klarx.de/en/jobs |
 | Kramp Hub | Utrecht 🇳🇱 | https://www.kramphub.nl/jobs |
+| Leaseweb | Amsterdam 🇳🇱 | https://www.leaseweb.com/career/departments/product-engineering |
 | Legartis | Zurich 🇨🇭 | https://www.legartis.ai/careers |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
 | Lightspeed | Sydney 🇦🇺 <br> Auckland 🇳🇿 | https://www.lightspeedhq.com/careers/overview |
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | LINKIT | Utrecht 🇳🇱 | https://www.linkit.nl/en/vacancies |
+| LOOP | Austria (Salzburg, Vienna) 🇦🇹 | https://www.agentur-loop.com/careers |
 | Luko | Paris 🇫🇷 <br> Berlin 🇩🇪 <br> Madrid 🇪🇸 | https://careers.luko.eu |
 | Meister | Vienna 🇦🇹 | https://www.meisterlabs.com/jobs |
 | Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
 | Miro | Amsterdam 🇳🇱 <br> Berlin 🇩🇪 | https://miro.com/careers |
 | Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
 | Monzo | London 🇬🇧 | https://monzo.com/careers |
+| movingimage | Berlin 🇩🇪 | https://www.movingimage.com/careers/#jobs |
 | Mujin | Tokyo 🇯🇵 | https://www.mujin.co.jp/en/recruit |
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
@@ -148,6 +154,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
 | Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
 | P&M | Germany (Hamburg, Kiel, Frankfurt) 🇩🇪 | https://pm-team.jobs.personio.de |
+| PAIR Finance | Berlin 🇩🇪 | https://pm-team.jobs.personio.de |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Personio | Munich 🇩🇪 | https://www.personio.com/about-personio/careers |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
@@ -167,6 +174,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com |
 | Sentinels | Amsterdam 🇳🇱 | https://sentinels.homerun.co/?lang=en |
 | Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
+| SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs |
 | Skyscanner | UK (London, Scotland) 🇬🇧 | https://www.skyscanner.net/jobs/current-jobs/ |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
@@ -192,6 +200,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Veriff | Tallin 🇪🇪 <br> Barcelona 🇪🇸 | https://www.veriff.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
 | Visma | Latvia (Riga) 🇱🇻 <br> Romania (Timisoara) 🇷🇴| https://www.visma.lv/vakances |
+| Volkswagen Digital Solutions | Lisbon 🇵🇹 | https://www.vwds.pt/careers |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
 | Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=newest |
@@ -201,6 +210,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Zenjob | Berlin 🇩🇪 | https://boards.greenhouse.io/zenjob |
 | Zenly | Paris 🇫🇷 | https://zen.ly/jobs |
 | Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
+| Zound Industries | Stockholm 🇸🇪 | https://ziegert-group.com/en/careers |
 
 
 # 🗣️ Job interviews
