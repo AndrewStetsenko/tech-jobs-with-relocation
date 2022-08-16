@@ -173,6 +173,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | ResearchGate | Berlin 🇩🇪 | https://www.researchgate.net/careers |
 | Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
 | Sage | Cluj-Napoca 🇷🇴 | https://www.sage.com/en-gb/company/careers |
+| Scout24 | Berlin 🇩🇪 | http://jobs.scout24.com |
 | SEEN | Oslo 🇳🇴 | https://apply.workable.com/seenio |
 | Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
 | Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com |
