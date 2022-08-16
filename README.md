@@ -126,6 +126,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Hubs | Amsterdam 🇳🇱 | https://www.hubs.com/jobs |
 | Intropic | London 🇬🇧 | https://jobs.lever.co/intropic |
 | JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
+| Journi | Vienna 🇦🇹 | https://www.journiapp.com/careers |
 | Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech |
 | Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
 | KidsLoop | South Korea (Seoul) 🇰🇷 | https://kidsloop.co.id/about-us/?lang=en |
@@ -147,6 +148,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Monzo | London 🇬🇧 | https://monzo.com/careers |
 | movingimage | Berlin 🇩🇪 | https://www.movingimage.com/careers/#jobs |
 | Mujin | Tokyo 🇯🇵 | https://www.mujin.co.jp/en/recruit |
+| N26 | Barcelona 🇪🇸 <br> Berlin 🇩🇪 <br> Vienna 🇦🇹 | https://n26.com/en/careers |
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
@@ -206,11 +208,13 @@ A well-written and concise resume is an essential ingredient of a successful job
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
 | Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=newest |
 | Wonderkind | Amsterdam 🇳🇱 | https://wonderkind.recruitee.com |
+| Xeneta | Oslo 🇳🇴 | https://xeneta.pinpointhq.com |
 | XM | Cyprus (Limassol, Nicosia) 🇨🇾 <br> Athens 🇬🇷 | https://www.xm.com/careers |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
 | Zenjob | Berlin 🇩🇪 | https://boards.greenhouse.io/zenjob |
 | Zenly | Paris 🇫🇷 | https://zen.ly/jobs |
 | Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
+| Zivid | Oslo 🇳🇴 | https://www.zivid.com/career-join-zivid |
 | Zound Industries | Stockholm 🇸🇪 | https://ziegert-group.com/en/careers |
 
 
