@@ -100,6 +100,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
 | EdApp | Sydney 🇦🇺 | https://www.edapp.com/careers |
 | Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |
+| ePages | Hamburg 🇩🇪 | https://epages.com/en/career |
 | EPAM | United States 🇺🇸 | https://www.epam.com/careers/job-listings |
 | ERIKS Digital | Amsterdam 🇳🇱 | https://careers.eriksdigital.com |
 | EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |
@@ -138,6 +139,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
 | Lightspeed | Sydney 🇦🇺 <br> Auckland 🇳🇿 | https://www.lightspeedhq.com/careers/overview |
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
+| Lingokids | Madrid 🇪🇸 | https://jobs.lingokids.com |
 | LINKIT | Utrecht 🇳🇱 | https://www.linkit.nl/en/vacancies |
 | LOOP | Austria (Salzburg, Vienna) 🇦🇹 | https://www.agentur-loop.com/careers |
 | Luko | Paris 🇫🇷 <br> Berlin 🇩🇪 <br> Madrid 🇪🇸 | https://careers.luko.eu |
@@ -204,6 +206,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
 | Visma | Latvia (Riga) 🇱🇻 <br> Romania (Timisoara) 🇷🇴| https://www.visma.lv/vakances |
 | Volkswagen Digital Solutions | Lisbon 🇵🇹 | https://www.vwds.pt/careers |
+| Wallapop | Barcelona 🇪🇸 | https://apply.workable.com/wallapop |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
 | Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=newest |
