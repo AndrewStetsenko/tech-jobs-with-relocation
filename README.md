@@ -174,6 +174,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Sellforte | Espoo 🇫🇮 | https://careers.sellforte.com |
 | Sentinels | Amsterdam 🇳🇱 | https://sentinels.homerun.co/?lang=en |
 | Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
+| Shape Games | Copenhagen 🇩🇰 | https://careers.shapegames.com/jobs |
 | SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs |
 | Skyscanner | UK (London, Scotland) 🇬🇧 | https://www.skyscanner.net/jobs/current-jobs/ |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
