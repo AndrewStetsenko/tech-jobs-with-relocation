@@ -236,6 +236,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🎥 [5 mistakes you are making in negotiating your developer salary](https://youtu.be/s_vxsu5nsjw)
 * [Typical relocation packages](https://relocate.me/learning-center/relocation-packages)
 * [Salary Calculator for Germany in English](https://www.arbeitnow.com/tools/salary-calculator/germany)
+  * [German income tax calculator](https://allaboutberlin.com/calculators/tax-calculator)
 
 
 # 🗺 Work permits & visas 
