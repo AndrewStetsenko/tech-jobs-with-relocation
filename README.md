@@ -122,6 +122,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Hesehus | Odense 🇩🇰 | https://www.hesehus.com/career/jobs |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
 | Holidu | Munich 🇩🇪 | https://www.holidu.com/careers/list |
+| HomeToGo | Berlin 🇩🇪  <br> Lithuania (Kaunas, Vilnius) 🇱🇹| https://www.hometogo.com/careers |
 | HotDoc | Melbourne 🇦🇺 | https://www.hotdoc.com.au/careers |
 | HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
 | Hubs | Amsterdam 🇳🇱 | https://www.hubs.com/jobs |
@@ -155,11 +156,13 @@ A well-written and concise resume is an essential ingredient of a successful job
 | New10 | Amsterdam 🇳🇱 | https://new10.com/vacatures/en |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
+| Optiver | Amsterdam 🇳🇱 | https://optiver.com/working-at-optiver/career-opportunities |
 | Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
 | Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
 | P&M | Germany (Hamburg, Kiel, Frankfurt) 🇩🇪 | https://pm-team.jobs.personio.de |
 | PAIR Finance | Berlin 🇩🇪 | https://pm-team.jobs.personio.de |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
+| Payconiq | Amsterdam 🇳🇱 | https://payconiq.recruitee.com |
 | Personio | Munich 🇩🇪 | https://www.personio.com/about-personio/careers |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
