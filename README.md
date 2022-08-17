@@ -203,6 +203,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
 | Truecaller | Stockholm 🇸🇪 | https://careers.truecaller.com |
 | TuSimple | United States 🇺🇸 | https://www.tusimple.com/careers |
+| UpCloud | Helsinki 🇫🇮 | https://upcloud.com/careers#open-positions |
 | Uphold | Portugal (Porto, Braga) 🇵🇹 | https://uphold.com/careers |
 | UpTeam | Prague 🇨🇿 | https://upteam.com/careers |
 | VanMoof | Amsterdam 🇳🇱 <br> Taipei 🇹🇼 | https://www.vanmoof.com/careers |
