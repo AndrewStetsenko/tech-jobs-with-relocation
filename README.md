@@ -142,6 +142,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | Lingokids | Madrid 🇪🇸 | https://jobs.lingokids.com |
 | LINKIT | Utrecht 🇳🇱 | https://www.linkit.nl/en/vacancies |
+| Lodgify | Barcelona 🇪🇸 | https://www.lodgify.com/careers |
 | LOOP | Austria (Salzburg, Vienna) 🇦🇹 | https://www.agentur-loop.com/careers |
 | Luko | Paris 🇫🇷 <br> Berlin 🇩🇪 <br> Madrid 🇪🇸 | https://careers.luko.eu |
 | Meister | Vienna 🇦🇹 | https://www.meisterlabs.com/jobs |
