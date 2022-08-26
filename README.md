@@ -192,6 +192,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Solvians | Germany (Berlin, Frankfurt, Göttingen) 🇩🇪 | https://www.solvians.com/career |
 | SoundCloud  | Berlin 🇩🇪 <br> United States (LA, NYC) 🇺🇸 | https://careers.soundcloud.com |
 | Stockly | Paris 🇫🇷 | https://www.stockly.ai/careers |
+| Sumo Digital | United Kingdom 🇬🇧 | https://www.sumo-digital.com/careers |
 | Swisscom | Rotterdam 🇳🇱 | https://swisscom.bamboohr.com/jobs |
 | Synergy Sports | Vienna 🇦🇹 <br> Warsaw 🇵🇱| https://synergysports.com/careers |
 | Tactile Games | Copenhagen 🇩🇰 | https://tactilegames.com/careers |
