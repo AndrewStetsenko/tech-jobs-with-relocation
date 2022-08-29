@@ -187,6 +187,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs |
 | Skyscanner | UK (London, Scotland) 🇬🇧 | https://www.skyscanner.net/jobs/current-jobs/ |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
+| Smartly.io | Helsinki 🇫🇮 | https://www.smartly.io/careers |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
 | Solvians | Germany (Berlin, Frankfurt, Göttingen) 🇩🇪 | https://www.solvians.com/career |
