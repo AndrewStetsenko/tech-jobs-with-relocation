@@ -162,6 +162,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
 | P&M | Germany (Hamburg, Kiel, Frankfurt) 🇩🇪 | https://pm-team.jobs.personio.de |
 | PAIR Finance | Berlin 🇩🇪 | https://pm-team.jobs.personio.de |
+| Parimatch Tech | Limassol 🇨🇾 <br> Prague 🇨🇿 | https://parimatch.tech/vacancies |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Payconiq | Amsterdam 🇳🇱 | https://payconiq.recruitee.com |
 | Personio | Munich 🇩🇪 | https://www.personio.com/about-personio/careers |
@@ -175,8 +176,10 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers |
 | ResearchGate | Berlin 🇩🇪 | https://www.researchgate.net/careers |
+| Robco | Munich 🇩🇪 | https://www.robco.de/en/careers#open-roles |
 | Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
 | Sage | Cluj-Napoca 🇷🇴 | https://www.sage.com/en-gb/company/careers |
+| Scoop Solar | Vancouver 🇨🇦 | https://www.scoop.solar/hiring |
 | Scout24 | Berlin 🇩🇪 | http://jobs.scout24.com |
 | SEEN | Oslo 🇳🇴 | https://apply.workable.com/seenio |
 | Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
@@ -184,6 +187,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Sentinels | Amsterdam 🇳🇱 | https://sentinels.homerun.co/?lang=en |
 | Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
 | Shape Games | Copenhagen 🇩🇰 | https://careers.shapegames.com/jobs |
+| SiteHost | Auckland 🇳🇿 | https://sitehost.nz/about/careers |
 | SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs |
 | Skyscanner | UK (London, Scotland) 🇬🇧 | https://www.skyscanner.net/jobs/current-jobs/ |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
