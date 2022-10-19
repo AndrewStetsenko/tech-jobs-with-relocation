@@ -88,6 +88,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Contentful | Berlin 🇩🇪 | https://www.contentful.com/careers |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
 | Cosuno | Amsterdam 🇳🇱 | https://www.cosuno.com/company#careers |
+| Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
 | DASH | Hoofddorp 🇳🇱 | https://thisisdash.com/careers |
 | Defined.ai | Lisbon 🇵🇹 | https://www.defined.ai/careers |
 | Delivery Hero | Berlin 🇩🇪 | https://careers.deliveryhero.com/global/en |
