@@ -62,6 +62,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Relocateme.eu](https://relocateme.eu/) – software engineer jobs with European startups and well-established tech companies
 * [Toughbyte](https://www.toughbyte.com/positions) – dev job opportunities in EU countries 
 * [Zero to One Search](https://jobs.zerotoonesearch.com/careers) – IT jobs in Germany
+* [Visto](https://visto.ai/find-a-job) - :canada: We help developers from around the world find jobs in Canada! and help canadian companies sponsorship developers.
 
 
 # 🏢 Companies hiring internationally
