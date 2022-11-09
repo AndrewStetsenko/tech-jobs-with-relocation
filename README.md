@@ -54,6 +54,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 
 # 🔖 International recruitment agencies
+* [Agile Search](https://agilesearch.io/open-positions/). Matches developers from all over the world with the best job opportunities and companies in the Nordics.
 * [Global {M}](https://globalm.io/) – jobs with European tech companies 
 * [Global Skills Hub](https://www.globalskills.io/) – remote and relocation jobs with Canada's top tech companies
 * [Kold+Partners](https://www.koldpartners.com/en/jobs/) – tech jobs in Denmark
