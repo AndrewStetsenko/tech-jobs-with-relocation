@@ -265,11 +265,59 @@ A well-written and concise resume is an essential ingredient of a successful job
 # ✈️ Relocation 
 * [Tips for successful job relocation](https://relocate.me/learning-center/relocation-process)
 * [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
-* [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
-* [Everything you need to know before moving to Berlin](https://www.deliveryhero.com/blog/moving-to-berlin/) 
-* [How to move to Berlin, step by step](https://allaboutberlin.com/guides/moving-to-berlin)
 * [Finding housing](https://relocate.me/learning-center/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
 
+## 🇦🇹 Austria relocation guides
+* [Vienna](https://www.virtualvienna.net/moving-to-vienna)
+
+## 🇧🇪 Belgium relocation guides
+* [Brussels](https://www.expatsinbrussels.be/en)
+
+## 🇨🇦 Canada relocation guides
+* [Toronto, ON](https://www.toronto.ca/community-people/moving-to-toronto)
+* [Montreal, QC](https://www.reddit.com/r/montreal/wiki/infores#wiki)
+* [Victoria, BC](https://www.movingtovictoria.com)
+
+## 🇩🇰  Denmark relocation guides
+* [Moving to Copenhagen](https://www.movingtocph.com/)
+* [FYI Denmark - Expat in Denmark](https://www.fyidenmark.com/)
+
+## 🇩🇪 Germany relocation guides
+* [Everything you need to know before moving to Berlin](https://www.deliveryhero.com/blog/moving-to-berlin/) 
+* [How to move to Berlin, step by step](https://allaboutberlin.com/guides/moving-to-berlin)
+
+## 🇫🇮 Finland relocation guides
+* [Moving to Helsinki](https://www.infofinland.fi/en/helsinki/moving-to-helsinki)
+* [Expat Finland: Finland in English](https://www.expat-finland.com/)
+
+## 🇮🇸 Iceland relocation guides
+* [Awesome Reykjavík](https://www.awesome-rvk.is/)
+* [How to move to Iceland](https://adventures.is/blog/how-to-move-to-iceland/)
+
+## 🇮🇪 Ireland relocation guides
+* [Dublin](https://www.movetodublin.com)
+
+## 🇯🇵 Japan relocation guides
+* [A guide to moving to Tokyo](https://medium.com/@christiancasim/moving-to-tokyo-377380b4287b) 
+* [Moving to Tokyo: A Complete Guide for Cheapos](https://tokyocheapo.com/living/moving-to-tokyo-guide/)
+
+## 🇳🇱  Netherlands relocation guides
+* [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
+* [The ultimate relocation guide to Amsteram](https://medium.com/@trycatch/the-ultimate-relocation-guide-to-amsterdam-ba37a813e31c)
+
+## 🇳🇴 Norway relocation guides
+* [Oslo](https://www.amby.com/blog/moving-to-oslo)
+
+## 🇸🇬 Singapore relocation guides
+* [Moving to Singapore - a quick guide](https://expatliving.sg/moving-to-singapore-a-guide-to-expat-living-in-singapore/)
+
+## 🇸🇪 Sweden relocation guides
+* [The Newbie Guide to Sweden](https://www.thenewbieguide.se)
+* [Moving to Sweden in 10 steps](https://www.sweden.se/work-business/moving-to-sweden/moving-to-sweden-in-10-steps)
+
+## 🇨🇭 Switzerland relocation guides
+* [Moving to Geneva](https://www.geneve.ch/en/themes/civil-status-life-course/moving-geneva/moving-geneva)
+* [Moving to Zurich](https://www.stadt-zuerich.ch/prd/en/index/bevoelkerungsamt/Moving_Register/moving-to-zuerich.html)
 
 # 💬 Expat stories
 * [Germany 🇩🇪 → Zurich, Switzerland 🇨🇭](https://iwangulenko.medium.com/eight-reasons-why-i-moved-to-switzerland-to-work-in-it-c7ac18af4f90)
