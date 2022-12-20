@@ -57,7 +57,6 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Agile Search](https://agilesearch.io/open-positions/). Matches developers from all over the world with the best job opportunities and companies in the Nordics.
 * [Global {M}](https://globalm.io/) – jobs with European tech companies 
 * [Global Skills Hub](https://www.globalskills.io/) – remote and relocation jobs with Canada's top tech companies
-* [Kold+Partners](https://www.koldpartners.com/en/jobs/) – tech jobs in Denmark
 * [Nederlia](https://nederlia.com/) – tech & product roles at starups and scaleups in Europe
 * [Ravecruitment](https://www.ravecruitment.com/) – IT jobs in the Netherlands
 * [Relocateme.eu](https://relocateme.eu/) – software engineer jobs with European startups and well-established tech companies
