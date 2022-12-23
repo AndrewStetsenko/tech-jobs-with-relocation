@@ -125,6 +125,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers |
 | Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
+| Scout24 | Berlin 🇩🇪 | http://jobs.scout24.com |
 | Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
 | Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
 | Shape Games | Copenhagen 🇩🇰 | https://careers.shapegames.com/jobs |
