@@ -160,8 +160,8 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 
 # 🗣️ Job interviews
-* [Screening interview tips](https://relocate.me/learning-center/screening-interviews)
-* [How to prepare for a technical interview](https://relocate.me/learning-center/coding-interview)
+* [Screening interview tips](https://relocate.me/learning-center/job-seeker/screening-interviews)
+* [How to prepare for a technical interview](https://relocate.me/learning-center/job-seeker/coding-interview)
 * [Tech interview handbook](https://techinterviewhandbook.org/): Free curated interview preparation materials for busy engineers.
 * 🎥 [How to prepare for behavioral interviews](https://youtu.be/zIJ1qRCPHUw)
 * 🔨 [interviewing.io](https://interviewing.io/): Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies.
@@ -172,12 +172,12 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/job-search/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
 * 🔨 [Calculators to estimate your after-taxes paycheck in 25 countries](https://relocate.me/net-pay-calculators/)
 * 🎥 [5 mistakes you are making in negotiating your developer salary](https://youtu.be/s_vxsu5nsjw)
-* [Typical relocation packages](https://relocate.me/learning-center/relocation-packages)
+* [Typical relocation packages](https://relocate.me/learning-center/job-seeker/relocation-packages)
 * [German income tax calculator](https://allaboutberlin.com/calculators/tax-calculator)
 
 
 # 🗺 Work permits & visas 
-* 🌍 [Info on work permits & visas for different countries](https://relocate.me/learning-center/work-permit-and-visa)
+* 🌍 [Info on work permits & visas for different countries](https://relocate.me/learning-center/job-seeker/work-permit-and-visa)
 * 🇪🇺 [EU Blue Card (essential information)](https://ec.europa.eu/immigration/blue-card/essential-information_en)
 * 🇨🇦 [Canadian immigration for tech workers: Express Entry, PNPs, and work permits](https://www.cicnews.com/2021/03/tech-workers-have-multiple-pathways-to-immigrate-to-canada-0317260.html#gs.o28ko6)
 * 🇬🇧 [Everything you need to know about the UK Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
@@ -187,12 +187,12 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 
 # ✈️ Relocation 
-* [Tips for successful job relocation](https://relocate.me/learning-center/relocation-process)
+* [Tips for successful job relocation](https://relocate.me/learning-center/job-seeker/relocation-process)
 * [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
 * [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
 * [Everything you need to know before moving to Berlin](https://www.deliveryhero.com/blog/moving-to-berlin/) 
 * [How to move to Berlin, step by step](https://allaboutberlin.com/guides/moving-to-berlin)
-* [Finding housing](https://relocate.me/learning-center/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
+* [Finding housing](https://relocate.me/learning-center/job-seeker/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
 
 
 # 💬 Expat stories
