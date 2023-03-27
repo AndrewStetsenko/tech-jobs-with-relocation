@@ -166,7 +166,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🎥 [How to prepare for behavioral interviews](https://youtu.be/zIJ1qRCPHUw)
 * 🔨 [interviewing.io](https://interviewing.io/): Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies.
 * 🔨 [LeetCode](https://leetcode.com/): A great place to practice solving coding problems and prepare for technical interviews. 
-* 🔨 [Meetapro](https://meetapro.com/): An Airbnb-style mock interview platform. Get feedbacks from top FAANG interviewers.
+* 🔨 [Meet a Pro](https://meetapro.com/): An Airbnb-style mock interview platform. Get feedbacks from top FAANG interviewers.
 
 # 💰 Compensation negotiation
 * [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/job-search/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
