@@ -68,7 +68,6 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 | Company name | Location(s) | Careers page |  
 |-------|--------------|---------------|
-| Amazon | Luxembourg 🇱🇺 <br> Berlin 🇩🇪 | https://www.amazon.jobs/en-gb/job_categories |
 | APG | Amsterdam 🇳🇱 | https://werkenbij.apg.nl/en/job-openings |
 | ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers |
 | Akur8 | Paris 🇫🇷 | https://akur8.com/careers |
@@ -81,9 +80,6 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Catawiki | Amsterdam 🇳🇱 | https://www.catawiki.com/en/jobs |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
 | Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
-| Diet Doctor | Stockholm 🇸🇪 | https://careers.dietdoctor.com |
-| Dott | Amsterdam 🇳🇱 <br> Paris 🇫🇷 | https://ridedott.com/careers |
-| doWhile | Gothenburg 🇸🇪 | https://join.dowhile.se/jobs |
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
 | Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |
 | ePages | Hamburg 🇩🇪 | https://epages.com/en/career |
