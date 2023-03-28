@@ -143,7 +143,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Uphold | Portugal (Porto, Braga) 🇵🇹 | https://uphold.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
 | Volkswagen Digital Solutions | Lisbon 🇵🇹 | https://www.vwds.pt/careers |
-| Wallapop | Barcelona 🇪🇸 | https://apply.workable.com/wallapop |
+| Wallapop | Barcelona 🇪🇸 | https://boards.eu.greenhouse.io/wallapop |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
 | Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=newest |
