@@ -36,7 +36,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 # 🔖 Niche job boards that have a filter for relocation
 * [Relocate.me](https://relocate.me/search): The site is built around and focused entirely on tech jobs that offer relocation.
-* [WellFound (formerly AngelList)](https://wellfound.com/jobs): If you go to the Filters tab, you will find a section named "Immigration + Network." There is an option to "only show companies that can sponsor a visa." Tick the box.
+* [Wellfound (formerly AngelList)](https://wellfound.com/jobs): If you go to the Filters tab, you will find a section named "Immigration + Network." There is an option to "only show companies that can sponsor a visa." Tick the box.
 * [Landing.Jobs](https://landing.jobs/jobs?page=1&vs=true&hd=false&t_co=false&t_st=false): The main country that they feature is Portugal, but you can find tech jobs in other parts of Europe as well. When searching for jobs, make sure to select the gilter for "Visa & work permit."
 * [SwissDevJobs](https://swissdevjobs.ch): For those looking to move to Switzerland, SwissDev Jobs is a great place to turn. The website allows you to easily locate developer jobs anywhere in Switzerland. In order to filter it to only jobs with relocation, you simply need to check the filter box for "Visa sponsorship for non-EU residents."
 * [TokyoDev](https://www.tokyodev.com/jobs/): The site is dedicated to helping international developers start and grow their career in Japan. Among other things, you will find a list of job offerings from local employers that are open to hiring foreign, English-speaking techies.  
