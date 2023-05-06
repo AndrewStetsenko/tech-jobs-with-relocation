@@ -115,8 +115,9 @@ A well-written and concise resume is an essential ingredient of a successful job
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
+| Omio | Berlin 🇩🇪 | https://www.omio.com/corporate/jobs/ |
 | Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
-| Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
+| Oxbotica | Berlin 🇩🇪 | https://www.omio.com/corporate/jobs/ |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
