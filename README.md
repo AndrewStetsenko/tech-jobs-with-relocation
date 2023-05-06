@@ -1,3 +1,6 @@
+
+<img src="/Readme-Header.png">
+
 # International Tech Job Search Handbook
 
 Relocation to a foreign country for work can be very exciting and lead to unique opportunities that couldn't be accessed in your home country. At the same time, it's a real challenge - I know it firsthand. Your mind becomes inundated with questions:
