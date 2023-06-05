@@ -108,7 +108,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
 | Monzo | London 🇬🇧 | https://monzo.com/careers |
 | movingimage | Berlin 🇩🇪 | https://www.movingimage.com/careers/#jobs |
-| Mujin | Tokyo 🇯🇵 | [https://www.mujin.co.jp/en/recruit](https://jobs.lever.co/mujininc/) |
+| Mujin | Tokyo 🇯🇵 | https://jobs.lever.co/mujininc |
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
