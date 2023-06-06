@@ -104,6 +104,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | LOOP | Austria (Salzburg, Vienna) 🇦🇹 | https://www.agentur-loop.com/careers |
+| MathWorks | United States 🇺s <br> Cambridge 🇬🇧 | https://www.mathworks.com/company/jobs/opportunities.html?source=19210&s_eid=Rci_19210 |
 | Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
 | Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
 | Monzo | London 🇬🇧 | https://monzo.com/careers |
