@@ -68,7 +68,6 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 | Company name | Location(s) | Careers page |  
 |-------|--------------|---------------|
-| APG | Amsterdam 🇳🇱 | https://werkenbij.apg.nl/en/job-openings |
 | ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers |
 | Akur8 | Paris 🇫🇷 | https://akur8.com/careers |
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
@@ -76,8 +75,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
 | Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |
 | Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
-| ByteDance | Singapore 🇸🇬 | https://jobs.bytedance.com/en |
-| Catawiki | Amsterdam 🇳🇱 | https://www.catawiki.com/en/jobs |
+| Catawiki | Amsterdam 🇳🇱 | https://catawiki.careers/vacancies |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
 | Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
@@ -102,14 +100,17 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech |
 | Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
+| Lightspeed | Auckland 🇳🇿 | https://boards.greenhouse.io/lightspeedhq |
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | LOOP | Austria (Salzburg, Vienna) 🇦🇹 | https://www.agentur-loop.com/careers |
+| Manychat | Barcelona 🇪🇸 <br> Yerevan 🇦🇲 | https://careers.manychat.com/#vacancies |
 | Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
 | Mollie | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://jobs.mollie.com |
 | Monzo | London 🇬🇧 | https://monzo.com/careers |
 | movingimage | Berlin 🇩🇪 | https://www.movingimage.com/careers/#jobs |
 | Mujin | Tokyo 🇯🇵 | https://jobs.lever.co/mujininc |
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
+| Neocom | Munich 🇩🇪 | https://www.neocom.ai/careers#section-job-openings |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
 | Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
@@ -133,6 +134,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
 | Solvians | Germany (Berlin, Frankfurt, Göttingen) 🇩🇪 | https://www.solvians.com/career |
 | SoundCloud  | Berlin 🇩🇪 <br> United States (LA, NYC) 🇺🇸 | https://careers.soundcloud.com |
+| Stream | Amsterdam 🇳🇱 | https://boards.greenhouse.io/stream |
 | Sumo Digital | United Kingdom 🇬🇧 | https://www.sumo-digital.com/careers |
 | Swisscom | Rotterdam 🇳🇱 | https://swisscom.bamboohr.com/jobs |
 | Tactile Games | Copenhagen 🇩🇰 | https://tactilegames.com/careers |
@@ -147,6 +149,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
 | Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=newest |
+| WorldQuant | Yerevan 🇦🇲 <br> Budapest 🇭🇺 | https://www.worldquant.com/career-listing |
 | Xeneta | Oslo 🇳🇴 | https://xeneta.pinpointhq.com |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
 | Zenly | Paris 🇫🇷 | https://zen.ly/jobs |
