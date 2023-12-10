@@ -152,10 +152,10 @@ A well-written and concise resume is an essential ingredient of a successful job
 | WorldQuant | Yerevan 🇦🇲 <br> Budapest 🇭🇺 | https://www.worldquant.com/career-listing |
 | Xeneta | Oslo 🇳🇴 | https://xeneta.pinpointhq.com |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
-| Zenly | Paris 🇫🇷 | https://zen.ly/jobs |
-| Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
+| Zenly | Paris 🇫🇷 |  |
+| Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/career/ |
 | Zivid | Oslo 🇳🇴 | https://www.zivid.com/career-join-zivid |
-| Zound Industries | Stockholm 🇸🇪 | https://ziegert-group.com/en/careers |
+| Zound Industries | Stockholm 🇸🇪 | https://ziegert-group.com/en/career/ |
 
 
 # 🗣️ Job interviews
