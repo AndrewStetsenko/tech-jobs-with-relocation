@@ -76,6 +76,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |
 | Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
 | Catawiki | Amsterdam 🇳🇱 | https://catawiki.careers/vacancies |
+| CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
 | Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
