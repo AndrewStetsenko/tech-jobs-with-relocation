@@ -78,6 +78,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Catawiki | Amsterdam 🇳🇱 | https://catawiki.careers/vacancies |
 | CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
+| Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |
 | Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
 | Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |
@@ -110,6 +111,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Monzo | London 🇬🇧 | https://monzo.com/careers |
 | movingimage | Berlin 🇩🇪 | https://www.movingimage.com/careers/#jobs |
 | Mujin | Tokyo 🇯🇵 | https://jobs.lever.co/mujininc |
+| Multiverse Computing | San Sebastian 🇪🇸 | https://multiversecomputing.com/join-us |
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | Neocom | Munich 🇩🇪 | https://www.neocom.ai/careers#section-job-openings |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
