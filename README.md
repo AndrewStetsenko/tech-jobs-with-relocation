@@ -159,7 +159,13 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
 | Zivid | Oslo 🇳🇴 | https://www.zivid.com/career-join-zivid |
 | Zound Industries | Stockholm 🇸🇪 | https://ziegert-group.com/en/careers |
-
+| Meisterlabs | Vienna  🇦🇹  <br> Berlin 🇩🇪 <br> United States 🇺🇸 | https://www.meisterlabs.com/jobs |
+| Homeday | Berlin 🇩🇪 | https://homeday.jobs.personio.de |
+| Blacklane | Berlin 🇩🇪 | https://www.blacklane.com/en/career |
+| HeyJobs | Berlin 🇩🇪 | https://hire.heyjobs.co/en-us/careers |
+| Visable | Hertha 🇩🇪 |https://www.visable.com/en_int/career |
+| Glovo | Barcelona 🇪🇸 | https://jobs.glovoapp.com |
+| Tractive | Linz 🇦🇹 | https://tractive.com/en/hr/careers |
 
 # 🗣️ Job interviews
 * [Screening interview tips](https://relocate.me/learning-center/job-seeker/screening-interviews)
