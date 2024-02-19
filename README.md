@@ -176,6 +176,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🎥 [5 mistakes you are making in negotiating your developer salary](https://youtu.be/s_vxsu5nsjw)
 * [Typical relocation packages](https://relocate.me/learning-center/job-seeker/relocation-packages)
 * [German income tax calculator](https://allaboutberlin.com/calculators/tax-calculator)
+* 🇯🇵 [A Guide to Salary Negotiations in Japan’s Tech Industry](https://www.tokyodev.com/2023/06/30/a-guide-to-salary-negotiations-in-japan-s-tech-industry/)
 
 
 # 🗺 Work permits & visas 
@@ -186,6 +187,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🇬🇧 [A list of UK companies licensed to sponsor workers on the Skilled Worker (formerly Tier 2) immigration route](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/980172/2021-04-26_Tier_2_5_Register_of_Sponsors.pdf)
 * 🇸🇬 [An overview of Singapore immigration visa schemes](https://www.guidemesingapore.com/business-guides/immigration/singapore-visa/singapore-immigration-visa-schemes#:~:text=The%20Employment%20Pass%20(EP)%20is,will%20be%20working%20in%20Singapore.&text=Validity%3A%20An%20EP%20is%20initially,be%20employed%20by%20the%20company)
 * 🇦🇺 [How to Migrate to Australia as a Software Engineer](https://ausdirectmigration.com/how-to-migrate-to-australia-as-a-software-engineer/)
+* 🇯🇵 [Visas for Software Engineers in Japan](https://www.tokyodev.com/2020/03/02/japanese-engineering-visa-options/)
 
 
 # ✈️ Relocation 
@@ -203,4 +205,5 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Iran 🇮🇷 → London, UK 🇬🇧](https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/)
 * [India 🇮🇳 → Tokyo, Japan 🇯🇵](https://relocate.me/blog/expat-stories/moving-to-japan-for-an-it-job-rupeshs-relocation-story/)
 * [Lebanon 🇱🇧 → Milan, Italy 🇮🇹](https://relocate.me/blog/expat-stories/moving-to-italy-for-a-tech-job/)
-* [Brazil 🇧🇷 → Lisbon, Portugal 🇵🇹](https://youtu.be/yx1xbn7WLzY) 
+* [Brazil 🇧🇷 → Lisbon, Portugal 🇵🇹](https://youtu.be/yx1xbn7WLzY)
+* [Canada 🇨🇦 → Tokyo, Japan](https://www.tokyodev.com/2020/03/02/japanese-engineering-visa-options/)
