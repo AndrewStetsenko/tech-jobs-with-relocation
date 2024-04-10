@@ -47,8 +47,9 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 
 # 🔖 Other places to check during the search
-* "Who's hiring?" monthly thread on Hacker News. Here's a link to the latest one: https://news.ycombinator.com/item?id=29782099. Use the search feature (Command/Ctrl + F) to find job offerings with the keyword "visa."
+* ["Who's hiring?" monthly thread](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F%202024&sort=byPopularity&type=story) on Hacker News (search for job offerings with the keyword “visa”)
 * [@Relocateme](http://t.me/relocateme) Telegram channel with daily actual job alerts
+* [Australian companies providing work visa sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship) 
 * [Big list of local job boards](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/)
 * [LinkedIn](https://www.linkedin.com/jobs/): When searching, you should add "relocation," "visa support," or "visa sponsorship" into the keywords tab, and select the city/country/region that's your choice for relocation. Here's an [example](https://www.linkedin.com/jobs/search/?currentJobId=2809004062&geoId=91000000&keywords=visa%20support%20software%20developer&location=European%20Union).
 
