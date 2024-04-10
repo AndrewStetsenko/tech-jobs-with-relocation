@@ -75,7 +75,8 @@ A well-written and concise resume is an essential ingredient of a successful job
 | BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
 | Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |
 | Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
-| Catawiki | Amsterdam 🇳🇱 | https://catawiki.careers/vacancies |
+| Byborg Enterprises | Luxembourg 🇱🇺 <br> Budapest 🇭🇺 | https://careers.smartrecruiters.com/DoclerHolding |
+| Catawiki | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://catawiki.careers/vacancies |
 | CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
 | Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |
@@ -172,20 +173,27 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 # 💰 Compensation negotiation
 * [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/job-search/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
-* 🔨 [Calculators to estimate your after-taxes paycheck in 25 countries](https://relocate.me/net-pay-calculators/)
+* [TechPays](https://techpays.eu/): a tech salary comparison site focused on Europe
 * 🎥 [5 mistakes you are making in negotiating your developer salary](https://youtu.be/s_vxsu5nsjw)
 * [Typical relocation packages](https://relocate.me/learning-center/job-seeker/relocation-packages)
-* [German income tax calculator](https://allaboutberlin.com/calculators/tax-calculator)
+* [Relocation package examples](https://relocate.me/blog/job-relocation/relocation-package-examples/)
+* [How to negotiate a relocation package](https://relocate.me/blog/job-relocation/negotiate-relocation-package/)
+* 🔨 [Calculators to estimate your after-taxes paycheck in 25 countries](https://relocate.me/net-pay-calculators/)
+* 🔨 [German income tax calculator](https://allaboutberlin.com/calculators/tax-calculator)
 
 
 # 🗺 Work permits & visas 
-* 🌍 [Info on work permits & visas for different countries](https://relocate.me/learning-center/job-seeker/work-permit-and-visa)
+* 🌍 [Info on work permits & visas for different countries](https://relocate.me/learning-center/job-seeker/work-permit-and-visa/)
+* 🌍 [The ultimate guide to work permits across Europe](https://relocate.me/blog/job-relocation/guide-to-work-permits-in-europe/)
+* 🇪🇺 [The best European countries for easy work visas](https://relocate.me/blog/job-search/easiest-european-country-to-get-work-visa/)
 * 🇪🇺 [EU Blue Card (essential information)](https://ec.europa.eu/immigration/blue-card/essential-information_en)
-* 🇨🇦 [Canadian immigration for tech workers: Express Entry, PNPs, and work permits](https://www.cicnews.com/2021/03/tech-workers-have-multiple-pathways-to-immigrate-to-canada-0317260.html#gs.o28ko6)
+* 🇳🇱 [Recognised sponsors of a Dutch Highly Skilled Migrant residence permit](https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants)
 * 🇬🇧 [Everything you need to know about the UK Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
-* 🇬🇧 [A list of UK companies licensed to sponsor workers on the Skilled Worker (formerly Tier 2) immigration route](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/980172/2021-04-26_Tier_2_5_Register_of_Sponsors.pdf)
+* 🇬🇧 [Licensed UK Skilled Worker visa sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+* 🇺🇸 [Database of H1B visa sponsors](https://h1bgrader.com)
 * 🇸🇬 [An overview of Singapore immigration visa schemes](https://www.guidemesingapore.com/business-guides/immigration/singapore-visa/singapore-immigration-visa-schemes#:~:text=The%20Employment%20Pass%20(EP)%20is,will%20be%20working%20in%20Singapore.&text=Validity%3A%20An%20EP%20is%20initially,be%20employed%20by%20the%20company)
 * 🇦🇺 [How to Migrate to Australia as a Software Engineer](https://ausdirectmigration.com/how-to-migrate-to-australia-as-a-software-engineer/)
+* 🔨 [Visadb.io](https://visadb.io/search/visas/all) to browse visas worldwide
 
 
 # ✈️ Relocation 
