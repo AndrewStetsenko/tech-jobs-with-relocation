@@ -202,7 +202,6 @@ A well-written and concise resume is an essential ingredient of a successful job
 # ✈️ Relocation 
 * [How to decide whether to relocate for a job](https://relocate.me/blog/job-relocation/how-to-decide-whether-to-relocate-for-a-job/)
 * [Tips for successful job relocation](https://relocate.me/learning-center/job-seeker/relocation-process)
-* [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
 * 🇳🇱 [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
 * [Everything you need to know before moving to Berlin](https://www.deliveryhero.com/blog/moving-to-berlin/) 
 * [How to move to Berlin, step by step](https://allaboutberlin.com/guides/moving-to-berlin)
@@ -210,7 +209,9 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🇪🇸 [How to relocate to Spain](https://relocate.me/blog/job-relocation/how-to-relocate-to-spain/)
 * 🇯🇵 [How to move to Japan from the United States](https://relocate.me/blog/job-relocation/moving-to-japan-from-us/)
 * 🇸🇮 [Moving to Slovenia for a tech job](https://relocate.me/blog/job-relocation/moving-to-slovenia-for-a-tech-job-the-ultimate-guide/)
-* [Finding housing](https://relocate.me/learning-center/job-seeker/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
+* 🏘️ [Finding housing](https://relocate.me/learning-center/job-seeker/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
+* [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
+
 
 
 # 💬 Expat stories
