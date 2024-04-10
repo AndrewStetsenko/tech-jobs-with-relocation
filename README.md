@@ -19,9 +19,11 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 * 🎥 [The resume that got me into Google and Bloomberg (software engineer resume tips)](https://youtu.be/aHB8bx4P7TE)
 * [How to improve your developer resume's bullet points](https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/)
-* 🔨 [CV Compiler](https://cvcompiler.com/): The app scans your resume for weak spots and suggests immediate, personalized improvements.
-* 🔨 [Standard Resume](https://standardresume.co/1): A modern web app for creating a beautiful resume quickly. The application takes care of the design and layout of your resume, allowing you to focus on the content. 
-* 🔨 [FlowCV](https://flowcv.io/resume-templates): Free, customizable resume templates.
+* 🔨 [Resume Worded](https://resumeworded.com/) for instant resume feedback
+* 🔨 [FlowCV](https://flowcv.io/resume-templates) for resume templates
+* 🔨 AI resume builder [Rezi](https://www.rezi.ai/) 
+* 🔨 [Standard Resume](https://standardresume.co/): A modern web app for creating a beautiful resume quickly. The application takes care of the design and layout of your resume, allowing you to focus on the content. 
+* 🔨 [EnhanCV](https://enhancv.com/) resume builder
 
 
 # 👀 Job search (useful reads)
@@ -166,6 +168,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Screening interview tips](https://relocate.me/learning-center/job-seeker/screening-interviews)
 * [How to prepare for a technical interview](https://relocate.me/learning-center/job-seeker/coding-interview)
 * [Tech interview handbook](https://techinterviewhandbook.org/): Free curated interview preparation materials for busy engineers.
+* [The best responses to “Are you willing to relocate?” with examples](https://relocate.me/blog/resume-interview-tips/are-you-willing-to-relocate-interview-question/)
 * 🎥 [How to prepare for behavioral interviews](https://youtu.be/zIJ1qRCPHUw)
 * 🔨 [interviewing.io](https://interviewing.io/): Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies.
 * 🔨 [LeetCode](https://leetcode.com/): A great place to practice solving coding problems and prepare for technical interviews. 
@@ -197,11 +200,16 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 
 # ✈️ Relocation 
+* [How to decide whether to relocate for a job](https://relocate.me/blog/job-relocation/how-to-decide-whether-to-relocate-for-a-job/)
 * [Tips for successful job relocation](https://relocate.me/learning-center/job-seeker/relocation-process)
 * [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
-* [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
+* 🇳🇱 [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
 * [Everything you need to know before moving to Berlin](https://www.deliveryhero.com/blog/moving-to-berlin/) 
 * [How to move to Berlin, step by step](https://allaboutberlin.com/guides/moving-to-berlin)
+* 🇨🇦 [How to relocate to Canada](https://relocate.me/blog/job-relocation/relocate-to-canada/)
+* 🇪🇸 [How to relocate to Spain](https://relocate.me/blog/job-relocation/how-to-relocate-to-spain/)
+* 🇯🇵 [How to move to Japan from the United States](https://relocate.me/blog/job-relocation/moving-to-japan-from-us/)
+* 🇸🇮 [Moving to Slovenia for a tech job](https://relocate.me/blog/job-relocation/moving-to-slovenia-for-a-tech-job-the-ultimate-guide/)
 * [Finding housing](https://relocate.me/learning-center/job-seeker/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
 
 
