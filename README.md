@@ -19,9 +19,11 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 * 🎥 [The resume that got me into Google and Bloomberg (software engineer resume tips)](https://youtu.be/aHB8bx4P7TE)
 * [How to improve your developer resume's bullet points](https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/)
-* 🔨 [CV Compiler](https://cvcompiler.com/): The app scans your resume for weak spots and suggests immediate, personalized improvements.
-* 🔨 [Standard Resume](https://standardresume.co/1): A modern web app for creating a beautiful resume quickly. The application takes care of the design and layout of your resume, allowing you to focus on the content. 
-* 🔨 [FlowCV](https://flowcv.io/resume-templates): Free, customizable resume templates.
+* 🔨 [Resume Worded](https://resumeworded.com/) for instant resume feedback
+* 🔨 [FlowCV](https://flowcv.io/resume-templates) for resume templates
+* 🔨 AI resume builder [Rezi](https://www.rezi.ai/) 
+* 🔨 [Standard Resume](https://standardresume.co/): A modern web app for creating a beautiful resume quickly. The application takes care of the design and layout of your resume, allowing you to focus on the content. 
+* 🔨 [EnhanCV](https://enhancv.com/) resume builder
 
 
 # 👀 Job search (useful reads)
@@ -45,8 +47,9 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 
 # 🔖 Other places to check during the search
-* "Who's hiring?" monthly thread on Hacker News. Here's a link to the latest one: https://news.ycombinator.com/item?id=29782099. Use the search feature (Command/Ctrl + F) to find job offerings with the keyword "visa."
+* ["Who's hiring?" monthly thread](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F%202024&sort=byPopularity&type=story) on Hacker News (search for job offerings with the keyword “visa”)
 * [@Relocateme](http://t.me/relocateme) Telegram channel with daily actual job alerts
+* [Australian companies providing work visa sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship) 
 * [Big list of local job boards](https://www.recruitingbrainfood.com/big-list-of-places-to-post-jobs-globally/)
 * [LinkedIn](https://www.linkedin.com/jobs/): When searching, you should add "relocation," "visa support," or "visa sponsorship" into the keywords tab, and select the city/country/region that's your choice for relocation. Here's an [example](https://www.linkedin.com/jobs/search/?currentJobId=2809004062&geoId=91000000&keywords=visa%20support%20software%20developer&location=European%20Union).
 
@@ -75,7 +78,8 @@ A well-written and concise resume is an essential ingredient of a successful job
 | BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
 | Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |
 | Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
-| Catawiki | Amsterdam 🇳🇱 | https://catawiki.careers/vacancies |
+| Byborg Enterprises | Luxembourg 🇱🇺 <br> Budapest 🇭🇺 | https://careers.smartrecruiters.com/DoclerHolding |
+| Catawiki | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://catawiki.careers/vacancies |
 | CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
 | Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |
@@ -130,7 +134,6 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
 | Shape Games | Copenhagen 🇩🇰 | https://careers.shapegames.com/jobs |
 | SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs |
-| Skyscanner | UK (London, Scotland) 🇬🇧 | https://www.skyscanner.net/jobs/current-jobs/ |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
 | Smartly.io | Helsinki 🇫🇮 | https://www.smartly.io/careers |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
@@ -172,6 +175,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Screening interview tips](https://relocate.me/learning-center/job-seeker/screening-interviews)
 * [How to prepare for a technical interview](https://relocate.me/learning-center/job-seeker/coding-interview)
 * [Tech interview handbook](https://techinterviewhandbook.org/): Free curated interview preparation materials for busy engineers.
+* [The best responses to “Are you willing to relocate?” with examples](https://relocate.me/blog/resume-interview-tips/are-you-willing-to-relocate-interview-question/)
 * 🎥 [How to prepare for behavioral interviews](https://youtu.be/zIJ1qRCPHUw)
 * 🔨 [interviewing.io](https://interviewing.io/): Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies.
 * 🔨 [LeetCode](https://leetcode.com/): A great place to practice solving coding problems and prepare for technical interviews. 
@@ -179,29 +183,42 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 # 💰 Compensation negotiation
 * [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/job-search/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
-* 🔨 [Calculators to estimate your after-taxes paycheck in 25 countries](https://relocate.me/net-pay-calculators/)
+* [TechPays](https://techpays.eu/): a tech salary comparison site focused on Europe
 * 🎥 [5 mistakes you are making in negotiating your developer salary](https://youtu.be/s_vxsu5nsjw)
 * [Typical relocation packages](https://relocate.me/learning-center/job-seeker/relocation-packages)
-* [German income tax calculator](https://allaboutberlin.com/calculators/tax-calculator)
+* [Relocation package examples](https://relocate.me/blog/job-relocation/relocation-package-examples/)
+* [How to negotiate a relocation package](https://relocate.me/blog/job-relocation/negotiate-relocation-package/)
+* 🔨 [Calculators to estimate your after-taxes paycheck in 25 countries](https://relocate.me/net-pay-calculators/)
+* 🔨 [German income tax calculator](https://allaboutberlin.com/calculators/tax-calculator)
 
 
 # 🗺 Work permits & visas 
-* 🌍 [Info on work permits & visas for different countries](https://relocate.me/learning-center/job-seeker/work-permit-and-visa)
+* 🌍 [Info on work permits & visas for different countries](https://relocate.me/learning-center/job-seeker/work-permit-and-visa/)
+* 🌍 [The ultimate guide to work permits across Europe](https://relocate.me/blog/job-relocation/guide-to-work-permits-in-europe/)
+* 🇪🇺 [The best European countries for easy work visas](https://relocate.me/blog/job-search/easiest-european-country-to-get-work-visa/)
 * 🇪🇺 [EU Blue Card (essential information)](https://ec.europa.eu/immigration/blue-card/essential-information_en)
-* 🇨🇦 [Canadian immigration for tech workers: Express Entry, PNPs, and work permits](https://www.cicnews.com/2021/03/tech-workers-have-multiple-pathways-to-immigrate-to-canada-0317260.html#gs.o28ko6)
+* 🇳🇱 [Recognised sponsors of a Dutch Highly Skilled Migrant residence permit](https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants)
 * 🇬🇧 [Everything you need to know about the UK Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
-* 🇬🇧 [A list of UK companies licensed to sponsor workers on the Skilled Worker (formerly Tier 2) immigration route](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/980172/2021-04-26_Tier_2_5_Register_of_Sponsors.pdf)
+* 🇬🇧 [Licensed UK Skilled Worker visa sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+* 🇺🇸 [Database of H1B visa sponsors](https://h1bgrader.com)
 * 🇸🇬 [An overview of Singapore immigration visa schemes](https://www.guidemesingapore.com/business-guides/immigration/singapore-visa/singapore-immigration-visa-schemes#:~:text=The%20Employment%20Pass%20(EP)%20is,will%20be%20working%20in%20Singapore.&text=Validity%3A%20An%20EP%20is%20initially,be%20employed%20by%20the%20company)
 * 🇦🇺 [How to Migrate to Australia as a Software Engineer](https://ausdirectmigration.com/how-to-migrate-to-australia-as-a-software-engineer/)
+* 🔨 [Visadb.io](https://visadb.io/search/visas/all) to browse visas worldwide
 
 
 # ✈️ Relocation 
+* [How to decide whether to relocate for a job](https://relocate.me/blog/job-relocation/how-to-decide-whether-to-relocate-for-a-job/)
 * [Tips for successful job relocation](https://relocate.me/learning-center/job-seeker/relocation-process)
-* [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
-* [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
+* 🇳🇱 [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
 * [Everything you need to know before moving to Berlin](https://www.deliveryhero.com/blog/moving-to-berlin/) 
 * [How to move to Berlin, step by step](https://allaboutberlin.com/guides/moving-to-berlin)
-* [Finding housing](https://relocate.me/learning-center/job-seeker/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
+* 🇨🇦 [How to relocate to Canada](https://relocate.me/blog/job-relocation/relocate-to-canada/)
+* 🇪🇸 [How to relocate to Spain](https://relocate.me/blog/job-relocation/how-to-relocate-to-spain/)
+* 🇯🇵 [How to move to Japan from the United States](https://relocate.me/blog/job-relocation/moving-to-japan-from-us/)
+* 🇸🇮 [Moving to Slovenia for a tech job](https://relocate.me/blog/job-relocation/moving-to-slovenia-for-a-tech-job-the-ultimate-guide/)
+* 🏘️ [Finding housing](https://relocate.me/learning-center/job-seeker/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
+* [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
+
 
 
 # 💬 Expat stories
