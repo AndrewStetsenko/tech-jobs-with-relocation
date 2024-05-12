@@ -169,7 +169,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Visable | Hertha 🇩🇪 |https://www.visable.com/en_int/career |
 | Glovo | Barcelona 🇪🇸 | https://jobs.glovoapp.com |
 | Tractive | Linz 🇦🇹 | https://tractive.com/en/hr/careers |
-| Vio(formerly Findhotel.net) | Netherlands 🇳🇱 | https://www.vio.com/careers#jobs |
+| Vio(formerly Findhotel) | Netherlands 🇳🇱 | https://www.vio.com/careers#jobs |
 
 # 🗣️ Job interviews
 * [Screening interview tips](https://relocate.me/learning-center/job-seeker/screening-interviews)
