@@ -208,7 +208,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🇨🇦 [How to relocate to Canada](https://relocate.me/blog/job-relocation/relocate-to-canada/)
 * 🇪🇸 [How to relocate to Spain](https://relocate.me/blog/job-relocation/how-to-relocate-to-spain/)
 * 🇯🇵 [How to move to Japan from the United States](https://relocate.me/blog/job-relocation/moving-to-japan-from-us/)
-* 🇸🇮 [Moving to Slovenia for a tech job](https://relocate.me/blog/job-relocation/moving-to-slovenia-for-a-tech-job-the-ultimate-guide/)
+* 🇸🇮 [Moving to Slovenia for a tech job](https://relocate.me/blog/job-relocation/moving-to-slovenia-for-a-tech-job-the-ultimate-guide/) ([Slovenian coffee guide](https://specialtykava.si/))
 * 🏘️ [Finding housing](https://relocate.me/learning-center/job-seeker/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
 * [Relocation companies that can help make your move abroad as smooth as possible](https://relocate.me/relocation-companies)
 
