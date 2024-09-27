@@ -173,6 +173,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🔨 [interviewing.io](https://interviewing.io/): Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies.
 * 🔨 [LeetCode](https://leetcode.com/): A great place to practice solving coding problems and prepare for technical interviews. 
 * 🔨 [Meet a Pro](https://meetapro.com/): An Airbnb-style mock interview platform. Get feedbacks from top FAANG interviewers.
+* 🔨 [Codemia](https://codemia.io/): A platform for practicing system design problems like the way you practice data structures and algorithms on Leetcode.
 
 # 💰 Compensation negotiation
 * [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/job-search/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
