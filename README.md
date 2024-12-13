@@ -21,6 +21,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [How to improve your developer resume's bullet points](https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/)
 * 🔨 [Resume Worded](https://resumeworded.com/) for instant resume feedback
 * 🔨 [FlowCV](https://flowcv.io/resume-templates) for resume templates
+* 🔨 [SELFCV](https://www.selfcv.com/cv-templates) for resume and cover letter templates
 * 🔨 AI resume builder [Rezi](https://www.rezi.ai/) 
 * 🔨 [Standard Resume](https://standardresume.co/): A modern web app for creating a beautiful resume quickly. The application takes care of the design and layout of your resume, allowing you to focus on the content. 
 * 🔨 [EnhanCV](https://enhancv.com/) resume builder
