@@ -19,6 +19,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 * 🎥 [The resume that got me into Google and Bloomberg (software engineer resume tips)](https://youtu.be/aHB8bx4P7TE)
 * [How to improve your developer resume's bullet points](https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/)
+* 🔨 [hello.cv](https://www.hello.cv/?via=relocate.me) for building a powerful online presence. Create subdomains like _blog.yourname.cv_ to share your story or link _yourname.cv_ directly to your LinkedIn profile or portfolio.
 * 🔨 [Resume Worded](https://resumeworded.com/) for instant resume feedback
 * 🔨 [FlowCV](https://flowcv.io/resume-templates) for resume templates
 * 🔨 AI resume builder [Rezi](https://www.rezi.ai/) 
