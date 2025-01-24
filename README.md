@@ -73,7 +73,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 
 # 🔖 Career accelerators
-[Outtalent](https://bit.ly/toouttalent): A career accelerator dedicated to helping software engineers land jobs at top global companies like Google, Meta, and Amazon. Outtalent provides coaching, interview preparation, and job offer negotiation support—all with a "pay only if you get the job" model.
+[Outtalent](https://bit.ly/toouttalent): A career accelerator dedicated to helping software engineers land jobs at top global companies like Google, Meta, and Amazon. Outtalent provides coaching, interview preparation, and job offer negotiation support – all with a "pay only if you get the job" model.
 
 
 
