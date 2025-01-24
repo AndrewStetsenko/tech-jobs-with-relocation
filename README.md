@@ -11,6 +11,7 @@ And the list goes on!
 
 Hopefully, this handbook will provide you with the guidance you need. Topics covered include resume preparation, job search, salary negotiation, relocation packages, and more.
 
+[![The Global Move Newsletter](https://github.com/AndrewStetsenko/tech-jobs-with-relocation/blob/main/assets/The%20Global%20Move_banner.png)](https://relocateme.substack.com/)
 
 
 # 📝 Resume preparation
@@ -152,6 +153,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
 | Solvians | Germany (Berlin, Frankfurt, Göttingen) 🇩🇪 | https://www.solvians.com/career |
 | SoundCloud  | Berlin 🇩🇪 <br> United States (LA, NYC) 🇺🇸 | https://careers.soundcloud.com |
+| straiv  | Stuttgart 🇩🇪 | https://straiv.io/en/career |
 | Stream | Amsterdam 🇳🇱 | https://boards.greenhouse.io/stream |
 | Sumo Digital | United Kingdom 🇬🇧 | https://www.sumo-digital.com/careers |
 | Swisscom | Rotterdam 🇳🇱 | https://sdcrotterdam.swisscom.ch/openpositions |
@@ -231,9 +233,9 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 
 # ✈️ Relocation companies & helpful services for expats
-* [Residence Angels](https://residence-angels.com/?utm_source=relocate.me&utm_medium=website): This company specializes in providing relocation assistance to individuals and businesses looking to work and live in Poland 🇵🇱.
-* [A. Univers Transit](https://www.univers-transit.co.il/): A family-owned company with over 20 years of expertise in international moving and relocation services for individuals, families, and corporate clients. Their services include packing, transporting, and delivering household goods and personal belongings; housing searches; school search assistance for families relocating with children; and settling-in support, among others.
-* [Duncans of London](https://www.theduncanpropertygroup.co.uk/): Specialises in providing luxury serviced apartments in the heart of London, catering to both long-term relocations and short-term leisure stays.
+* 🇵🇱 [Residence Angels](https://residence-angels.com/?utm_source=relocate.me&utm_medium=website): This company specializes in providing relocation assistance to individuals and businesses looking to work and live in Poland.
+* 🌍 [A. Univers Transit](https://www.univers-transit.co.il/): A family-owned company with over 20 years of expertise in international moving and relocation services for individuals, families, and corporate clients. Their services include packing, transporting, and delivering household goods and personal belongings; housing searches; school search assistance for families relocating with children; and settling-in support, among others.
+* 🇬🇧 [Duncans of London](https://www.theduncanpropertygroup.co.uk/): Specialises in providing luxury serviced apartments in the heart of London, catering to both long-term relocations and short-term leisure stays.
   
 
 
