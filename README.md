@@ -11,7 +11,7 @@ And the list goes on!
 
 Hopefully, this handbook will provide you with the guidance you need. Topics covered include resume preparation, job search, salary negotiation, relocation packages, and more.
 
-[![The Global Move Newsletter](https://github.com/AndrewStetsenko/tech-jobs-with-relocation/blob/main/visuals/newsletter%20banner.png)](https://relocateme.substack.com/)
+[![Substack Newsletter](https://github.com/AndrewStetsenko/tech-jobs-with-relocation/blob/main/visuals/Substack%20banner.png)](https://relocateme.substack.com/)
 
 
 # 📝 Resume preparation
