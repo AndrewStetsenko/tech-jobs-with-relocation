@@ -25,7 +25,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🔨 AI resume builder [Rezi](https://www.rezi.ai/) 
 * 🔨 [Standard Resume](https://standardresume.co/): A modern web app for creating a beautiful resume quickly. The application takes care of the design and layout of your resume, allowing you to focus on the content.
   
-
+<br>
 # 👀 Job search (useful reads)
 * [Effective search tactics for developer jobs](https://relocate.me/blog/working-abroad/developer-job-search-tactics/)
 * [Reasons why you're not hearing back about jobs](https://www.thebalancecareers.com/reasons-why-you-re-not-hearing-back-about-jobs-4772644)
@@ -35,7 +35,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [How to write a cover letter as a software developer (cover letter included)](https://learnitmyway.medium.com/how-to-write-a-cover-letter-as-a-software-developer-cover-letter-and-cv-included-2190e0d23e97)
 * [How Boolean searching can help your international job hunt](https://relocate.me/blog/working-abroad/how-to-find-unadvertised-tech-jobs/)
 
-
+<br>
 # 🔖 Niche job boards that have a filter for relocation
 * [Relocate.me](https://relocate.me/international-jobs): The site is built around and focused on tech jobs that offer relocation.
 * [Wellfound (formerly AngelList)](https://wellfound.com/jobs): If you go to the Filters tab, you will find a section named "Immigration + Network." There is an option to "only show companies that can sponsor a visa." Tick the box.
@@ -45,7 +45,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Japan Dev](https://japan-dev.com/japan-jobs-relocation): A hand-curated job board for tech roles in Japan.
 * [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation): Europe-based positions with relocation assistance/visa sponsorship & salary info.
 
-
+<br>
 # 🔖 Other places to check during the search
 * ["Who's hiring?" monthly thread](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=Ask%20HN%3A%20Who%20is%20hiring%3F%202024&sort=byPopularity&type=story) on Hacker News (search for job offerings with the keyword “visa”)
 * [@Relocateme](http://t.me/relocateme) Telegram channel with daily actual job alerts
@@ -55,7 +55,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 
 **Note:** You can apply the same approach - typing "relocation" followed by your target job title in the search bar - to other sites (e.g., Indeed or Glassdoor) that, like LinkedIn, have no filter for relocation. Of course, you will find some jobs that don't offer relocation or are not quite what you are looking for, but overall using relevant keywords does a good job at filtering them out. 
 
-
+<br>
 # 🔖 International recruitment agencies
 * [Agile Search](https://agilesearch.io/open-positions/). Matches developers from all over the world with the best job opportunities and companies in the Nordics.
 * [Global {M}](https://globalm.io/) – jobs with European tech companies 
@@ -64,13 +64,13 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Toughbyte](https://www.toughbyte.com/positions) – dev job opportunities in EU countries 
 * [Zero to One Search](https://jobs.zerotoonesearch.com/careers) – IT jobs in Germany
 
-
+<br>
 # 🔖 Career accelerators
 [Outtalent](https://bit.ly/toouttalent): A career accelerator dedicated to helping software engineers land jobs at top global companies like Google, Meta, and Amazon. Outtalent provides coaching, interview preparation, and job offer negotiation support—all with a "pay only if you get the job" model.
 
-
+<br>
 # 🏢 Companies hiring internationally
-
+<br>
 | Company name | Location(s) | Careers page |  
 |-------|--------------|---------------|
 | ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers |
@@ -169,7 +169,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Zivid | Oslo 🇳🇴 | https://www.zivid.com/career-join-zivid |
 | Zound Industries | Stockholm 🇸🇪 | https://ziegert-group.com/en/careers |
 
-
+<br>
 # 🗣️ Job interviews
 * [Screening interview tips](https://relocate.me/international-jobs/job-search-guide/screening-interviews)
 * [How to prepare for a technical interview](https://relocate.me/international-jobs/job-search-guide/technical-interview)
@@ -180,7 +180,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🔨 [LeetCode](https://leetcode.com/): A great place to practice solving coding problems and prepare for technical interviews. 
 * 🔨 [Meet a Pro](https://meetapro.com/): An Airbnb-style mock interview platform. Get feedbacks from top FAANG interviewers.
 
-
+<br>
 # 💰 Compensation negotiation
 * [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/working-abroad/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
 * [TechPays](https://techpays.eu/): A tech salary comparison site focused on Europe.
@@ -188,9 +188,9 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Relocation packages explained](https://relocate.me/international-jobs/job-search-guide/relocation-packages)
 * [Relocation package examples](https://relocate.me/blog/working-abroad/relocation-package-examples/)
 * [How to negotiate a relocation package](https://relocate.me/blog/working-abroad/negotiate-relocation-package/)
-* 🔨 Net salary & tax calculators: [Australia](https://relocate.me/taxes/calculator/australia) | [Austria](https://relocate.me/taxes/calculator/austria) | [Belgium](https://relocate.me/taxes/calculator/belgium) | [Canada](https://relocate.me/taxes/calculator/canada) | [Croatia](https://relocate.me/taxes/calculator/croatia) | [Cyprus](https://relocate.me/taxes/calculator/cyprus) | [Czechia](https://relocate.me/taxes/calculator/czech-republic), [Denmark](https://relocate.me/taxes/calculator/denmark) | [Estonia](https://relocate.me/taxes/calculator/estonia) | [Finland](https://relocate.me/taxes/calculator/finland) | [France](https://relocate.me/taxes/calculator/france) | [Germany](https://relocate.me/taxes/calculator/germany) | [Ireland](https://relocate.me/taxes/calculator/ireland) | [Japan](https://relocate.me/taxes/calculator/japan) | [Luxembourg](https://relocate.me/taxes/calculator/luxembourg) | [Netherlands](https://relocate.me/taxes/calculator/netherlands) | [New Zealand](https://relocate.me/taxes/calculator/new-zealand) | [Norway](https://relocate.me/taxes/calculator/norway) | [Poland](https://relocate.me/taxes/calculator/poland) | [Portugal](https://relocate.me/taxes/calculator/portugal) | [Singapore](https://relocate.me/taxes/calculator/singapore) | [Spain](https://relocate.me/taxes/calculator/spain) | [Sweden](https://relocate.me/taxes/calculator/sweden) | [United Kingdom](https://relocate.me/taxes/calculator/united-kingdom) | [United States](https://relocate.me/taxes/calculator/united-states)
+* 🔨 Net salary & tax calculators: [Australia](https://relocate.me/taxes/calculator/australia) | [Austria](https://relocate.me/taxes/calculator/austria) | [Belgium](https://relocate.me/taxes/calculator/belgium) | [Canada](https://relocate.me/taxes/calculator/canada) | [Croatia](https://relocate.me/taxes/calculator/croatia) | [Cyprus](https://relocate.me/taxes/calculator/cyprus) | [Czechia](https://relocate.me/taxes/calculator/czech-republic) | [Denmark](https://relocate.me/taxes/calculator/denmark) | [Estonia](https://relocate.me/taxes/calculator/estonia) | [Finland](https://relocate.me/taxes/calculator/finland) | [France](https://relocate.me/taxes/calculator/france) | [Germany](https://relocate.me/taxes/calculator/germany) | [Ireland](https://relocate.me/taxes/calculator/ireland) | [Japan](https://relocate.me/taxes/calculator/japan) | [Luxembourg](https://relocate.me/taxes/calculator/luxembourg) | [Netherlands](https://relocate.me/taxes/calculator/netherlands) | [New Zealand](https://relocate.me/taxes/calculator/new-zealand) | [Norway](https://relocate.me/taxes/calculator/norway) | [Poland](https://relocate.me/taxes/calculator/poland) | [Portugal](https://relocate.me/taxes/calculator/portugal) | [Singapore](https://relocate.me/taxes/calculator/singapore) | [Spain](https://relocate.me/taxes/calculator/spain) | [Sweden](https://relocate.me/taxes/calculator/sweden) | [United Kingdom](https://relocate.me/taxes/calculator/united-kingdom) | [United States](https://relocate.me/taxes/calculator/united-states)
 
-
+<br>
 # 🗺 Work permits & visas 
 * 🌍 [A guide to global visa options, permanent residence & citizenship pathways](https://relocate.me/visas)
 * 🌍 [The ultimate guide to work permits across Europe](https://relocate.me/blog/visas-and-immigration/guide-to-work-permits-in-europe/)
@@ -204,7 +204,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🇦🇺 [How to migrate to Australia as a software engineer](https://ausdirectmigration.com/how-to-migrate-to-australia-as-a-software-engineer/)
 * 🔨 [Visadb.io](https://visadb.io/search/visas/all) to browse visas worldwide
 
-
+<br>
 # ✈️ Relocation (useful reads)
 * [How to decide whether to relocate for a job](https://relocate.me/blog/working-abroad/how-to-decide-whether-to-relocate-for-a-job/)
 * [Tips for successful job relocation](https://relocate.me/international-jobs/job-search-guide/relocation-process)
@@ -217,13 +217,13 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🇸🇮 [Moving to Slovenia for a tech job](https://relocate.me/blog/working-abroad/moving-to-slovenia-for-a-tech-job-the-ultimate-guide/) | [Slovenian coffee guide](https://specialtykava.si/)
 * 🏘️ [Finding housing](https://relocate.me/international-jobs/job-search-guide/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
 
-
+<br>
 # ✈️ Relocation companies & helpful services for expats
 * [Residence Angels](https://residence-angels.com/?utm_source=relocate.me&utm_medium=website): This company specializes in providing relocation assistance to individuals and businesses looking to work and live in Poland 🇵🇱.
 * [A. Univers Transit](https://www.univers-transit.co.il/): A family-owned company with over 20 years of expertise in international moving and relocation services for individuals, families, and corporate clients. Their services include packing, transporting, and delivering household goods and personal belongings; housing searches; school search assistance for families relocating with children; and settling-in support, among others.
-* [Duncans of London](https://www.theduncanpropertygroup.co.uk/): Specialises in providing luxory serviced apartments in the heart of London, catering to both long-term relocations and short-term leisure stays.
+* [Duncans of London](https://www.theduncanpropertygroup.co.uk/): Specialises in providing luxury serviced apartments in the heart of London, catering to both long-term relocations and short-term leisure stays.
   
-
+<br>
 # 💬 Expat stories
 * [Germany 🇩🇪 → Zurich, Switzerland 🇨🇭](https://iwangulenko.medium.com/eight-reasons-why-i-moved-to-switzerland-to-work-in-it-c7ac18af4f90)
 * [Ukraine 🇺🇦 → Tallinn, Estonia 🇪🇪](https://relocate.me/blog/expat-stories/moving-to-estonia-for-work/)
