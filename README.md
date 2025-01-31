@@ -17,15 +17,17 @@ Hopefully, this handbook will provide you with the guidance you need. Topics cov
 # 📝 Resume preparation
 A well-written and concise resume is an essential ingredient of a successful job hunt. Here's a list of articles, resources & tools to help you:
 
+Articles:
 * [Ways to upgrade that should lead to getting more job interviews](https://relocate.me/blog/working-abroad/10-data-driven-ways-to-use-your-developer-resume-to-get-interviews/)
 * [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 * 🎥 [The resume that got me into Google and Bloomberg (software engineer resume tips)](https://youtu.be/aHB8bx4P7TE)
 * [How to improve your developer resume's bullet points](https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/)
+
+Tools:
 * 🔨 [hello.cv](https://www.hello.cv/?via=relocate.me) for building a powerful online presence. Create subdomains like _blog.yourname.cv_ to share your story or link _yourname.cv_ directly to your LinkedIn profile or portfolio.
-* 🔨 [Resume Worded](https://resumeworded.com/) for instant resume feedback
+* 🔨 Enhancv's [Resume Builder]([https://www.rezi.ai/](https://enhancv.com/get-started/relocate-me-resume/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=list) 
+* 🔨 A free and fast [AI Resume Checker]([https://resumeworded.com/](https://enhancv.com/resources/resume-checker/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=resume-section) for instant resume feedback
 * 🔨 [FlowCV](https://flowcv.io/resume-templates) for resume templates
-* 🔨 AI resume builder [Rezi](https://www.rezi.ai/) 
-* 🔨 [Standard Resume](https://standardresume.co/): A modern web app for creating a beautiful resume quickly. The application takes care of the design and layout of your resume, allowing you to focus on the content.
   
 
 
