@@ -1,3 +1,6 @@
+
+<img src="/Readme-Header.png">
+
 # International Tech Job Search Handbook
 
 Relocation to a foreign country for work can be very exciting and lead to unique opportunities that couldn't be accessed in your home country. At the same time, it's a real challenge - I know it firsthand. Once you've made the decision to relocate, the questions start to flood your mind:  
@@ -133,8 +136,9 @@ Tools:
 | Neocom | Munich 🇩🇪 | https://www.neocom.ai/careers#section-job-openings |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
+| Omio | Berlin 🇩🇪 | https://www.omio.com/corporate/jobs/ |
 | Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
-| Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
+| Oxbotica | Berlin 🇩🇪 | https://www.omio.com/corporate/jobs/ |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Payrails | Berlin 🇩🇪 | https://www.payrails.com/careers |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
