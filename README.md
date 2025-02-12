@@ -139,7 +139,7 @@ Tools:
 | Payrails | Berlin 🇩🇪 | https://www.payrails.com/careers |
 | PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
-| Procteate | Hobart 🇦🇺 | https://procreate.com/careers |
+| Procreate | Hobart 🇦🇺 | https://procreate.com/careers |
 | QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers |
