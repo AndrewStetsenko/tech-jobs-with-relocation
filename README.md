@@ -75,6 +75,7 @@ Tools:
 
 
 # 🔖 Career accelerators
+* [The Global Move](https://globalmove.co): The Global Move is your shortcut to landing a tech job with visa and relocation support. Each week, we handpick hundreds of job opportunities, bring in recruiters and hiring managers for insider insights, and provide expert guidance on resumes and interviews.
 * [Outtalent](https://bit.ly/toouttalent): A career accelerator dedicated to helping software engineers land jobs at top global companies like Google, Meta, and Amazon. They provide coaching, interview prep, and job offer negotiation support—all with a success-based payment fee.
 
 
