@@ -236,7 +236,7 @@ Tools:
 
 
 # ✈️ Relocation companies & helpful services for expats
-* 🇵🇱 [Residence Angels](https://residence-angels.com/?utm_source=relocate.me&utm_medium=website): This company specializes in providing relocation assistance to individuals and businesses looking to work and live in Poland.
+* 🇵🇱 [Residence Angels](https://residence-angels.com/?utm_source=relocate.me&utm_medium=website): Provides relocation assistance to individuals and businesses looking to work and live in Poland.
 * 🌍 [A. Univers Transit](https://www.univers-transit.co.il/): A family-owned company with over 20 years of expertise in international moving and relocation services for individuals, families, and corporate clients. Their services include packing, transporting, and delivering household goods and personal belongings; housing searches; school search assistance for families relocating with children; and settling-in support, among others.
 * 🇬🇧 [Duncans of London](https://www.theduncanpropertygroup.co.uk/): Specialises in providing luxury serviced apartments in the heart of London, catering to both long-term relocations and short-term leisure stays.
 * 🇫🇷 [EasyStart Relocation](https://easystart.me/): Helps relocate to France by offering a seamless, all-inclusive approach to international moves. From visas and immigration to renting or purchasing property, setting up social security, and even tax advice.
