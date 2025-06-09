@@ -84,6 +84,9 @@ Tools:
 
 | Company name | Location(s) | Careers page |  
 |-------|--------------|---------------|
+| Alice & Bob | Paris 🇫🇷 | https://alice-bob.com/join-us |
+| Amo | Paris 🇫🇷 | https://amo.co/jobs |
+| AQEMIA | Paris 🇫🇷 <br> London 🇬🇧 | https://www.aqemia.com/careers |
 | ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers |
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
 | BandLab | Singapore 🇸🇬 | https://www.bandlab.com/careers |
@@ -91,25 +94,32 @@ Tools:
 | BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
 | Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |
 | Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
+| Bolt | Tallinn 🇪🇪 | https://bolt.eu/en/careers/positions/ |
+| BrainRocket | Cyprus 🇨🇾 <br> Lisbon 🇵🇹 | https://www.brainrocket.com/career |
+| Brevo | Paris 🇫🇷 | https://www.brevo.com/careers |
 | Byborg Enterprises | Luxembourg 🇱🇺 <br> Budapest 🇭🇺 | https://careers.smartrecruiters.com/DoclerHolding |
+| Bytro | Hamburg 🇩🇪 <br> Malta 🇲🇹 | https://bytro.com/career |
 | Catawiki | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://catawiki.careers/vacancies |
 | CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs |
 | Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
 | Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |
 | Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
-| e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
+| Deliveroo | London 🇬🇧 | https://careers.deliveroo.co.uk |
+| Dynatrace | Austria 🇦🇹 | https://careers.dynatrace.com |
 | Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |
 | ePages | Hamburg 🇩🇪 | https://epages.com/en/career |
 | EPAM | United States 🇺🇸 | https://www.epam.com/careers/job-listings |
 | EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |
 | Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
 | FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
+| Finom | Cyprus 🇨🇾 | https://careers.finom.co |
 | Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |
 | foodspring | Berlin 🇩🇪 | https://www.researchgate.net/careers |
+| Frontier | Cambridge 🇬🇧 | https://www.frontier.co.uk/careers |
 | FxPro | Limassol 🇨🇾 | http://www.fxpro.com/careers |
-| GeoPhy | The Hague 🇳🇱 | https://geophy.com/careers |
 | Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
 | Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
+| Helsing | Munich 🇩🇪 <br> Paris 🇫🇷 <br> London 🇬🇧| https://helsing.ai/careers |
 | HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
 | HomeToGo | Berlin 🇩🇪  <br> Lithuania (Kaunas, Vilnius) 🇱🇹| https://www.hometogo.com/careers |
@@ -118,8 +128,12 @@ Tools:
 | JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
 | Journi | Vienna 🇦🇹 | https://www.journiapp.com/careers |
 | Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech |
+| Jus Mundi | Paris 🇫🇷 | https://www.welcometothejungle.com/en/companies/jus-mundi/jobs |
 | Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
+| Kiwi.com | Barcelona 🇪🇸 <br> Prague 🇨🇿 <br> Brno 🇨🇿 | https://jobs.kiwi.com |
+| Kolibri Games | Berlin 🇩🇪 | https://www.kolibrigames.com/career |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
+| Libertex Group | Montenegro 🇲🇪 | https://apply.workable.com/libertexgroup/ |
 | Lightspeed | Auckland 🇳🇿 | https://boards.greenhouse.io/lightspeedhq |
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | LOOP | Austria (Salzburg, Vienna) 🇦🇹 | https://www.agentur-loop.com/careers |
@@ -132,23 +146,26 @@ Tools:
 | Multiverse Computing | San Sebastian 🇪🇸 | https://multiversecomputing.com/join-us |
 | NavVis | Munich 🇩🇪 | https://www.navvis.com/company/careers |
 | Neocom | Munich 🇩🇪 | https://www.neocom.ai/careers#section-job-openings |
+| Nomagic | Warsaw 🇵🇱 | https://nomagic.ai/join-us |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
 | Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
-| Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
+| Oxa | Oxford 🇬🇧 | https://oxa.tech/careers/ |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Payrails | Berlin 🇩🇪 | https://www.payrails.com/careers |
-| PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
+| PhotoRoom | Paris 🇫🇷 | https://www.photoroom.com/company |
 | Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
+| Preply | Barcelona 🇪🇸 | https://preply.com/en/careers |
 | Procreate | Hobart 🇦🇺 | https://procreate.com/careers |
 | QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers |
-| Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
+| Revolut | Poland 🇵🇱 <br> Portugal 🇵🇹 <br> Spain 🇪🇸 | https://www.revolut.com/careers/?text=relocation |
+| Rover.com | Barcelona 🇪🇸 | https://www.rover.com/careers |
+| Rovio | Helsinki 🇫🇮 <br> Stockholm 🇸🇪 | https://www.rovio.com/careers |
+| Scorewarrior | Cyprus 🇨🇾 | https://scorewarrior.com/careers |
 | Scout24 | Berlin 🇩🇪 | http://jobs.scout24.com |
 | Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
-| Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
-| Shape Games | Copenhagen 🇩🇰 | https://careers.shapegames.com/jobs |
 | SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
 | Smartly.io | Helsinki 🇫🇮 | https://www.smartly.io/careers |
@@ -157,29 +174,31 @@ Tools:
 | Solvians | Germany (Berlin, Frankfurt, Göttingen) 🇩🇪 | https://www.solvians.com/career |
 | SoundCloud  | Berlin 🇩🇪 <br> United States (LA, NYC) 🇺🇸 | https://careers.soundcloud.com |
 | straiv  | Stuttgart 🇩🇪 | https://straiv.io/en/career |
-| Stream | Amsterdam 🇳🇱 | https://boards.greenhouse.io/stream |
+| Stream | Amsterdam 🇳🇱 | https://jobs.ashbyhq.com/stream |
 | Sumo Digital | United Kingdom 🇬🇧 | https://www.sumo-digital.com/careers |
 | Swisscom | Rotterdam 🇳🇱 | https://sdcrotterdam.swisscom.ch/openpositions |
+| Symbolica AI | London 🇬🇧 | https://job-boards.greenhouse.io/symbolica |
 | Tactile Games | Copenhagen 🇩🇰 | https://tactilegames.com/careers |
 | Talkwalker | Luxembourg 🇱🇺 | https://www.talkwalker.com/careers |
 | The LEGO Group | Denmark (Billund, Copenhagen) 🇩🇰 | https://www.lego.com/da-dk/careers/search |
 | Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
+| Tractive | Linz 🇦🇹 | https://tractive.com/en/hr/careers |
 | TuSimple | United States 🇺🇸 | https://www.tusimple.com/careers |
 | Uphold | Portugal (Porto, Braga) 🇵🇹 | https://uphold.com/careers |
-| Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
+| Valarian | London 🇬🇧 | https://www.valarian.com/careers |
 | Volkswagen Digital Solutions | Lisbon 🇵🇹 | https://www.vwds.pt/careers |
+| Voodoo | Paris 🇫🇷 | https://voodoo.io/careers |
 | Wallapop | Barcelona 🇪🇸 | https://boards.eu.greenhouse.io/wallapop |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | Welltech  | Limassol 🇨🇾 <br> Warsaw 🇵🇱 | https://welltech.com/career |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
+| Wheely | London 🇬🇧 <br> Nicosia 🇨🇾| https://wheely.com/en/careers |
 | Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=newest |
 | WorldQuant | Yerevan 🇦🇲 <br> Budapest 🇭🇺 | https://www.worldquant.com/career-listing |
 | Xeneta | Oslo 🇳🇴 | https://xeneta.pinpointhq.com |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
-| Zenly | Paris 🇫🇷 | https://zen.ly/jobs |
 | Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
 | Zivid | Oslo 🇳🇴 | https://www.zivid.com/career-join-zivid |
-| Zound Industries | Stockholm 🇸🇪 | https://ziegert-group.com/en/careers |
 
 
 
