@@ -251,4 +251,24 @@ Tools:
 * [Iran 🇮🇷 → London, UK 🇬🇧](https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/)
 * [India 🇮🇳 → Tokyo, Japan 🇯🇵](https://relocate.me/blog/expat-stories/moving-to-japan-for-an-it-job-rupeshs-relocation-story/)
 * [Lebanon 🇱🇧 → Milan, Italy 🇮🇹](https://relocate.me/blog/expat-stories/moving-to-italy-for-a-tech-job/)
-* [Brazil 🇧🇷 → Lisbon, Portugal 🇵🇹](https://youtu.be/yx1xbn7WLzY) 
+* [Brazil 🇧🇷 → Lisbon, Portugal 🇵🇹](https://youtu.be/yx1xbn7WLzY)
+
+# 🙌 Supporters
+Shout out to the companies that help grow this resource and support global talent mobility:
+
+
+![Picnic’s Logo](https://avatars.githubusercontent.com/u/8298269?s=200&v=4?raw=true)
+
+**[Picnic](https://jobs.picnic.app/en/home)** is one of Europe’s fastest-growing tech companies, delivering fresh groceries to millions of customers in the Netherlands, Germany, and France. They’re hiring tech talent from around the world!
+
+If you haven’t already, check out their open tech roles in Amsterdam:  
+[Senior Java Developer](https://grnh.se/bf068fab1us), [Senior React Developer](https://jobs.picnic.app/en/vacancies/JCE7AP64/engineering/senior-react-developer/amsterdam/north/holland/netherlands), [Senior DevOps Engineer](https://jobs.picnic.app/en/vacancies/JBVWU9FQ/engineering/senior-devops-engineer/amsterdam/north/holland/netherlands), [Team Lead (Python)](https://jobs.picnic.app/en/vacancies/J6K13ROI/engineering/-tech-lead-python/amsterdam/north/holland/netherlands), and [many more](https://jobs.picnic.app/en/tech).  
+
+🐙 [Picnic on GitHub](https://github.com/picnicsupermarket) | 📝 [Picnic’s Engineering Blog](https://blog.picnic.nl/)
+
+
+
+_Think your company belongs on this list? Shoot me a message at andrew [at] relocate.me._
+
+
+
