@@ -242,6 +242,7 @@ Tools:
 * 🇫🇷 [EasyStart Relocation](https://easystart.me/): Helps relocate to France by offering a seamless, all-inclusive approach to international moves. From visas and immigration to renting or purchasing property, setting up social security, and even tax advice.
 * 🇪🇸 [Lexidy](https://www.lexidy.com/): Provides comprehensive support with immigration, business, real estate, and tax matters in Spain.
 * 🇩🇪 [BARMER](https://feather-insurance.com/de-de/public-health-insurance/barmer/?utm_source=Relocate.meSocialMedia&utm_campaign=dijana.knezevic@barmer.de): One of Germany’s largest and most respected public health insurance providers, offering multilingual support, expedited social security number processing, and dedicated assistance tailored to the needs of expats.
+* 🇩🇪 [Wunderflats](https://wunderflats.com/en?utm_source=relocate.me): Germany’s leading platform for temporary furnished rentals, offering verified, move-in-ready apartments for stays of one month or longer (primarily in major German cities).
   
 
 
