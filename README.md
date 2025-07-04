@@ -263,7 +263,7 @@ Shout out to the companies that help grow this resource and support global talen
 **[Picnic](https://jobs.picnic.app/en/home)** is one of Europe’s fastest-growing tech companies, delivering fresh groceries to millions of customers in the Netherlands, Germany, and France. They’re hiring tech talent from around the world!
 
 If you haven’t already, check out their open tech roles in Amsterdam:  
-[Senior Java Developer](https://grnh.se/bf068fab1us), [Senior React Developer](https://jobs.picnic.app/en/vacancies/JCE7AP64/engineering/senior-react-developer/amsterdam/north/holland/netherlands), [Senior DevOps Engineer](https://jobs.picnic.app/en/vacancies/JBVWU9FQ/engineering/senior-devops-engineer/amsterdam/north/holland/netherlands), [Team Lead (Python)](https://jobs.picnic.app/en/vacancies/J6K13ROI/engineering/-tech-lead-python/amsterdam/north/holland/netherlands), and [many more](https://jobs.picnic.app/en/tech).  
+[Senior Java Developer](https://jobs.picnic.app/nl/vacancies?gh_jid=4476506&gh_src=bf068fab1us), [Java Developer](https://jobs.picnic.app/nl/vacancies?gh_jid=986403&gh_src=ecd3e4061us), [Tech Lead (Python)](https://jobs.picnic.app/en/vacancies/J9YCROYC/engineering/tech-lead-python/amsterdam/north/holland/netherlands), and [many more](https://jobs.picnic.app/en/tech).  
 
 🐙 [Picnic on GitHub](https://github.com/picnicsupermarket) | 📝 [Picnic’s Engineering Blog](https://blog.picnic.nl/)
 
