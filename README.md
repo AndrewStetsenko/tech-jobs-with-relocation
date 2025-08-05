@@ -84,6 +84,7 @@ Tools:
 
 | Company name | Location(s) | Careers page |  
 |-------|--------------|---------------|
+| Agoda | Bangkok 🇹🇭 | https://careersatagoda.com/vacancies/ |
 | ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers |
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
 | BandLab | Singapore 🇸🇬 | https://www.bandlab.com/careers |
