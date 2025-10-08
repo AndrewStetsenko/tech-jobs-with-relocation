@@ -21,7 +21,7 @@ Articles:
 * [Ways to upgrade that should lead to getting more job interviews](https://relocate.me/blog/working-abroad/10-data-driven-ways-to-use-your-developer-resume-to-get-interviews/)
 * [How to write an effective developer resume: Advice from a hiring manager](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 * 🎥 [The resume that got me into Google and Bloomberg (software engineer resume tips)](https://youtu.be/aHB8bx4P7TE)
-* [How to improve your developer resume's bullet points](https://cvcompiler.com/blog/how-to-improve-your-junior-developer-resume-bullets/)
+* [How to prepare a strong tech resume](https://relocateme.substack.com/p/how-to-prepare-a-strong-tech-resume)
 
 Tools:
 * 🔨 [hello.cv](https://www.hello.cv/?via=relocate.me) for building a powerful online presence. Create subdomains like _blog.yourname.cv_ to share your story or link _yourname.cv_ directly to your LinkedIn profile or portfolio.
@@ -84,7 +84,6 @@ Tools:
 
 | Company name | Location(s) | Careers page |  
 |-------|--------------|---------------|
-| ARHS Group | Luxembourg 🇱🇺 | https://www.arhs-group.com/careers |
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
 | BandLab | Singapore 🇸🇬 | https://www.bandlab.com/careers |
 | Betsson Group | Ta' Xbiex (Malta) 🇲🇹 | https://www.betssongroup.com/career/available-jobs |
