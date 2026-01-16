@@ -33,6 +33,7 @@ Tools:
 
 # 👀 Job search (useful reads)
 * [Effective search tactics for developer jobs](https://relocate.me/blog/working-abroad/developer-job-search-tactics/)
+* [How to find global, remote-from-anywere jobs](https://relocateme.substack.com/p/how-to-find-remote-from-anywhere)
 * [Reasons why you're not hearing back about jobs](https://www.thebalancecareers.com/reasons-why-you-re-not-hearing-back-about-jobs-4772644)
 * [7 basic mistakes that'll slow down any job search - and how to fix them all today](https://www.themuse.com/advice/7-basic-mistakes-thatll-slow-down-any-job-searchand-how-to-fix-them-all-today)
 * [The best day and time to apply for a job online](https://careersidekick.com/whats-the-best-day-to-apply-for-jobs-online/)
@@ -50,6 +51,15 @@ Tools:
 * [TokyoDev](https://www.tokyodev.com/jobs/): The site is dedicated to helping international developers start and grow their career in Japan. Among other things, you will find a list of job offerings from local employers that are open to hiring foreign, English-speaking techies.  
 * [Japan Dev](https://japan-dev.com/japan-jobs-relocation): A hand-curated job board for tech roles in Japan.
 * [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation): Europe-based positions with relocation assistance/visa sponsorship & salary info.
+
+# 🔖 The Global Move (Substack)
+I started [The Global Move](https://relocateme.substack.com/) in early 2025 as a newsletter and supportive community for people looking for international (tech) jobs.
+
+Today, it’s over 8,000 members strong, and each Thursday I share a handpicked list of ~100 jobs (primarily tech roles) that offer visa/relocation assistance. As a result, there’s now an **[archive of 4,500+ relocation-friendly tech jobs](https://relocateme.substack.com/t/relocation-friendly-jobs)**, which continues to grow every week.
+
+Starting in January 2026, every weekly job list also includes [remote-from-anywhere tech roles](https://relocateme.substack.com/p/work-from-anywhere-tech-jobs-introductory), alongside relocation-friendly positions.
+
+_**Note:** Access to the weekly job lists and the full archive is available with a [paid subscription](https://relocateme.substack.com/subscribe)._
 
 
 
