@@ -55,7 +55,7 @@ Tools:
 # 🔖 The Global Move (Substack)
 I started [The Global Move](https://relocateme.substack.com/) in early 2025 as a newsletter and supportive community for people looking for international (tech) jobs.
 
-Today, it’s over 8,000 members strong, and each Thursday I share a handpicked list of ~100 jobs (primarily tech roles) that offer visa/relocation assistance. As a result, there’s now an **[archive of 4,500+ relocation-friendly tech jobs](https://relocateme.substack.com/t/relocation-friendly-jobs)**, which continues to grow every week.
+Today, it’s almost 10,000 members strong, and each Thursday I share a handpicked list of ~100 jobs (primarily tech roles) that offer visa/relocation assistance. As a result, there’s now an **[archive of 5,000+ relocation-friendly tech jobs](https://relocateme.substack.com/t/relocation-friendly-jobs)**, which continues to grow every week.
 
 Starting in January 2026, every weekly job list also includes [remote-from-anywhere tech roles](https://relocateme.substack.com/p/work-from-anywhere-tech-jobs-introductory), alongside relocation-friendly positions.
 
@@ -86,7 +86,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 
 # 🔖 Career accelerators
 * [The Global Move](https://globalmove.co): The Global Move is your shortcut to landing a tech job with visa and relocation support. Each week, we handpick hundreds of job opportunities, bring in recruiters and hiring managers for insider insights, and provide expert guidance on resumes and interviews.
-* [Outtalent](https://bit.ly/toouttalent): A career accelerator dedicated to helping software engineers land jobs at top global companies like Google, Meta, and Amazon. They provide coaching, interview prep, and job offer negotiation support—all with a success-based payment fee.
+* [Outtalent](https://bit.ly/toouttalent): A career accelerator dedicated to helping software engineers land jobs at top global companies like Google, Meta, and Amazon. They provide coaching, interview prep, and job offer negotiation support. Here’s a [Substack post](https://relocateme.substack.com/p/how-outtalent-helps-engineers-from) explaining in detail how Outtalent works, who it’s actually for, how to join, and what it costs.
 
 
 
@@ -248,7 +248,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * 🇵🇱 [Residence Angels](https://residence-angels.com/?utm_source=relocate.me&utm_medium=website): Provides relocation assistance to individuals and businesses looking to work and live in Poland.
 * 🌍 [A. Univers Transit](https://www.univers-transit.co.il/): A family-owned company with over 20 years of expertise in international moving and relocation services for individuals, families, and corporate clients. Their services include packing, transporting, and delivering household goods and personal belongings; housing searches; school search assistance for families relocating with children; and settling-in support, among others.
 * 🇬🇧 [Duncans of London](https://www.theduncanpropertygroup.co.uk/): Specialises in providing luxury serviced apartments in the heart of London, catering to both long-term relocations and short-term leisure stays.
-* 🇩🇪 [Caselink](https://www.caselink.solutions/): Provides relocation and immigration support in Germany, helping expats with visa applications, residence permits, local registration, and navigating German bureaucracy. By combining AI-powered automation with expert consultants, they make the process faster and easier to manage — from applications to settling in.
+* 🇩🇪 [Caselink](https://www.caselink.solutions/): Provides relocation and immigration support in Germany, helping expats with visa applications, residence permits, local registration, and navigating German bureaucracy. By combining AI-powered automation with expert consultants, they make the process faster and easier to manage - from applications to settling in.
 * 🇫🇷 [EasyStart Relocation](https://easystart.me/): Helps relocate to France by offering a seamless, all-inclusive approach to international moves. From visas and immigration to renting or purchasing property, setting up social security, and even tax advice.
 * 🇪🇸 [Lexidy](https://www.lexidy.com/): Provides comprehensive support with immigration, business, real estate, and tax matters in Spain.
 * 🇩🇪 [BARMER](https://feather-insurance.com/de-de/public-health-insurance/barmer/?utm_source=Relocate.meSocialMedia&utm_campaign=dijana.knezevic@barmer.de): One of Germany’s largest and most respected public health insurance providers, offering multilingual support, expedited social security number processing, and dedicated assistance tailored to the needs of expats.
