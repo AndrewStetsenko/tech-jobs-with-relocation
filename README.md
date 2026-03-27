@@ -79,7 +79,8 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * [Global {M}](https://globalm.io/) – jobs with European tech companies 
 * [Nederlia](https://nederlia.com/) – tech & product roles at starups and scaleups in Europe
 * [Relocateme.eu](https://relocateme.eu/) – software engineer jobs with European startups and well-established tech companies
-* [Toughbyte](https://www.toughbyte.com/positions) – dev job opportunities in EU countries 
+* [Toughbyte](https://www.toughbyte.com/positions) – dev job opportunities in EU countries
+* [Tribe](https://www.tribexyz.com/) – embedded recruiting for European tech companies hiring internationally
 * [Zero to One Search](https://jobs.zerotoonesearch.com/careers) – IT jobs in Germany
 
 
