@@ -253,6 +253,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * 🇪🇸 [Lexidy](https://www.lexidy.com/): Provides comprehensive support with immigration, business, real estate, and tax matters in Spain.
 * 🇩🇪 [BARMER](https://feather-insurance.com/de-de/public-health-insurance/barmer/?utm_source=Relocate.meSocialMedia&utm_campaign=dijana.knezevic@barmer.de): One of Germany’s largest and most respected public health insurance providers, offering multilingual support, expedited social security number processing, and dedicated assistance tailored to the needs of expats.
 * 🇩🇪 [Wunderflats](https://wunderflats.com/en?utm_source=relocate.me): Germany’s leading platform for temporary furnished rentals, offering verified, move-in-ready apartments for stays of one month or longer (primarily in major German cities).
+* 🌐 [IDPhotoSnap](https://idphotosnap.com): A dedicated visa photo service for 100+ countries. Free, browser-only (no upload), open MIT spec dataset on [GitHub](https://github.com/whitetirocket/passport-photo-specs) covering 248 document formats (US DS-160, Schengen, UK ETA, Canada IRCC, German Blue Card, Indian PSK, residence permits, biometric IDs). Built for visa applicants from emerging markets.
   
 
 
