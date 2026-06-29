@@ -239,6 +239,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * 🇨🇦 [How to relocate to Canada](https://relocate.me/blog/relocation-advice/relocate-to-canada/)
 * 🇪🇸 [How to relocate to Spain](https://relocate.me/blog/relocation-advice/how-to-relocate-to-spain/)
 * 🇯🇵 [How to move to Japan from the United States](https://relocate.me/blog/relocation-advice/moving-to-japan-from-us/)
+* 🇩🇰 [Moving to Denmark for a tech job](https://nordicexpat.com/denmark/best-bank-account-denmark-expat) — Banking, CPR, tax card and healthcare for tech professionals relocating to Copenhagen
 * 🇸🇮 [Moving to Slovenia for a tech job](https://relocate.me/blog/working-abroad/moving-to-slovenia-for-a-tech-job-the-ultimate-guide/) | [Slovenian coffee guide](https://specialtykava.si/)
 * 🏘️ [Finding housing](https://relocate.me/international-jobs/job-search-guide/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
 
