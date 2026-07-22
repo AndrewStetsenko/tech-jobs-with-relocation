@@ -201,6 +201,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * 🔨 [interviewing.io](https://interviewing.io/): Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies.
 * 🔨 [LeetCode](https://leetcode.com/): A great place to practice solving coding problems and prepare for technical interviews. 
 * 🔨 [Meet a Pro](https://meetapro.com/): An Airbnb-style mock interview platform. Get feedbacks from top FAANG interviewers.
+* 🔨 [Codemia](https://codemia.io/): A platform for practicing system design problems like the way you practice data structures and algorithms on Leetcode.
 
 
 
