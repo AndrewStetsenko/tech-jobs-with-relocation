@@ -51,6 +51,8 @@ Tools:
 * [TokyoDev](https://www.tokyodev.com/jobs/): The site is dedicated to helping international developers start and grow their career in Japan. Among other things, you will find a list of job offerings from local employers that are open to hiring foreign, English-speaking techies.  
 * [Japan Dev](https://japan-dev.com/japan-jobs-relocation): A hand-curated job board for tech roles in Japan.
 * [Arbeitnow](https://www.arbeitnow.com/jobs-with-relocation): Europe-based positions with relocation assistance/visa sponsorship & salary info.
+* [Jaabz](https://jaabz.com): Tech jobs board with relocation and visa sponsorship opportunities.
+
 
 # 🔖 The Global Move (Substack)
 I started [The Global Move](https://relocateme.substack.com/) in early 2025 as a newsletter and supportive community for people looking for international (tech) jobs.
