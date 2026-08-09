@@ -27,6 +27,7 @@ Tools:
 * 🔨 [hello.cv](https://www.hello.cv/?via=relocate.me) for building a powerful online presence. Create subdomains like _blog.yourname.cv_ to share your story or link _yourname.cv_ directly to your LinkedIn profile or portfolio.
 * 🔨 Enhancv's [Resume Builder](https://enhancv.com/get-started/relocate-me-resume/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=list) 
 * 🔨 A free and fast [AI Resume Checker](https://enhancv.com/resources/resume-checker/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=resume-section) for instant resume feedback
+* 🔨 [CVExpert's free CV–job match checker](https://cvexpert.com/tools/cv-job-match) to compare a resume with a specific job description and review matched and missing terms. It runs locally in the browser without sign-up.
 * 🔨 [FlowCV](https://flowcv.io/resume-templates) for resume templates
   
 
