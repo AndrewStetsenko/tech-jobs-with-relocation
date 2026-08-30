@@ -240,6 +240,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * 🇪🇸 [How to relocate to Spain](https://relocate.me/blog/relocation-advice/how-to-relocate-to-spain/)
 * 🇯🇵 [How to move to Japan from the United States](https://relocate.me/blog/relocation-advice/moving-to-japan-from-us/)
 * 🇸🇮 [Moving to Slovenia for a tech job](https://relocate.me/blog/working-abroad/moving-to-slovenia-for-a-tech-job-the-ultimate-guide/) | [Slovenian coffee guide](https://specialtykava.si/)
+* 🇭🇷 [Moving to Croatia: an open-source, five-stage guide](https://ohmoveagain.com/): Ordered stages with prerequisites, required documents, checklists and a runway calculator. Each item carries a source link and the date it was last verified.
 * 🏘️ [Finding housing](https://relocate.me/international-jobs/job-search-guide/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
 
 
