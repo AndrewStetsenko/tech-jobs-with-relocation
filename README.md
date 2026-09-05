@@ -28,6 +28,7 @@ Tools:
 * 🔨 Enhancv's [Resume Builder](https://enhancv.com/get-started/relocate-me-resume/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=list) 
 * 🔨 A free and fast [AI Resume Checker](https://enhancv.com/resources/resume-checker/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=resume-section) for instant resume feedback
 * 🔨 [FlowCV](https://flowcv.io/resume-templates) for resume templates
+* 🔨 [ResumeAI](https://withresumeai.com/) free ATS checker + AI resume builder (3/day with no account); State of ATS 2026 open dataset
   
 
 
