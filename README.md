@@ -224,6 +224,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * 🇬🇧 [Everything you need to know about the UK Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
 * 🇬🇧 [Licensed UK Skilled Worker visa sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
 * 🇺🇸 [Database of H1B visa sponsors](https://h1bgrader.com)
+* 🇺🇸 [H1BTrack — LCA salaries, USCIS approval rates & E-Verify data](https://h1btrack.com)
 * 🇸🇬 [An overview of Singapore immigration visa schemes](https://www.guidemesingapore.com/business-guides/immigration/singapore-visa/singapore-immigration-visa-schemes#:~:text=The%20Employment%20Pass%20(EP)%20is,will%20be%20working%20in%20Singapore.&text=Validity%3A%20An%20EP%20is%20initially,be%20employed%20by%20the%20company)
 * 🇦🇺 [How to migrate to Australia as a software engineer](https://ausdirectmigration.com/how-to-migrate-to-australia-as-a-software-engineer/)
 * 🔨 [Visadb.io](https://visadb.io/search/visas/all) to browse visas worldwide
