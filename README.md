@@ -175,7 +175,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
 | TuSimple | United States 🇺🇸 | https://www.tusimple.com/careers |
 | Uphold | Portugal (Porto, Braga) 🇵🇹 | https://uphold.com/careers |
-| Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
+| Shiftmove | Berlin 🇩🇪 | https://www.shiftmove.com/careers/job-board |
 | Volkswagen Digital Solutions | Lisbon 🇵🇹 | https://www.vwds.pt/careers |
 | Wallapop | Barcelona 🇪🇸 | https://boards.eu.greenhouse.io/wallapop |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
