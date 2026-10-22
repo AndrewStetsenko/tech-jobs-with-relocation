@@ -37,7 +37,7 @@ Tools:
 * [7 basic mistakes that'll slow down any job search - and how to fix them all today](https://www.themuse.com/advice/7-basic-mistakes-thatll-slow-down-any-job-searchand-how-to-fix-them-all-today)
 * [The best day and time to apply for a job online](https://careersidekick.com/whats-the-best-day-to-apply-for-jobs-online/)
 * [When (and when not) to include a cover letter](https://www.thebalancecareers.com/should-you-include-a-cover-letter-if-it-s-not-required-2060291)
-* [How to write a cover letter as a software developer (cover letter included)](https://learnitmyway.medium.com/how-to-write-a-cover-letter-as-a-software-developer-cover-letter-and-cv-included-2190e0d23e97)
+* [How to write a cover letter in 2026](https://relocateme.substack.com/p/how-to-write-a-cover-letter-in-2026)
 * [How Boolean searching can help your international job hunt](https://relocate.me/blog/working-abroad/how-to-find-unadvertised-tech-jobs/)
 
 
