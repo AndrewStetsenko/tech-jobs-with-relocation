@@ -75,7 +75,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 
 
 # 🔖 International recruitment agencies
-* [Agile Search](https://agilesearch.io/open-positions/). Matches developers from all over the world with the best job opportunities and companies in the Nordics.
+* [Agile Search](https://jobs.talentium.io/agile-search). Matches developers from all over the world with the best job opportunities and companies in the Nordics.
 * [Global {M}](https://globalm.io/) – jobs with European tech companies 
 * [Nederlia](https://nederlia.com/) – tech & product roles at starups and scaleups in Europe
 * [Relocateme.eu](https://relocateme.eu/) – software engineer jobs with European startups and well-established tech companies
@@ -107,7 +107,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |
 | Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
 | e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
-| Elements | Almere 🇳🇱 | https://www.elements.nl/en/careers |
+| Elements | Almere 🇳🇱 | https://apply.workable.com/elements |
 | ePages | Hamburg 🇩🇪 | https://epages.com/en/career |
 | EPAM | United States 🇺🇸 | https://www.epam.com/careers/job-listings |
 | EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |
@@ -129,7 +129,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech |
 | Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
-| Lightspeed | Auckland 🇳🇿 | https://boards.greenhouse.io/lightspeedhq |
+| Lightspeed | Auckland 🇳🇿 | https://job-boards.greenhouse.io/lightspeedhq |
 | LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
 | LOOP | Austria (Salzburg, Vienna) 🇦🇹 | https://www.agentur-loop.com/careers |
 | Manychat | Barcelona 🇪🇸 <br> Yerevan 🇦🇲 | https://careers.manychat.com/#vacancies |
@@ -143,49 +143,45 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | Neocom | Munich 🇩🇪 | https://www.neocom.ai/careers#section-job-openings |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
-| Optum | Ireland (Dublin, Letterkenny) 🇮🇪 | https://careers.unitedhealthgroup.com/optum-ireland |
 | Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
 | PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
 | Payrails | Berlin 🇩🇪 | https://www.payrails.com/careers |
-| PhotoRoom | Paris 🇫🇷 | https://jobs.lever.co/photoroom |
-| Picnic | Amsterdam 🇳🇱 | https://picnic.app/careers/all-jobs |
+| PhotoRoom | Paris 🇫🇷 | https://www.welcometothejungle.com/en/companies/photoroom/jobs |
+| Picnic | Amsterdam 🇳🇱 | https://jobs.picnic.app/en/tech |
 | Procreate | Hobart 🇦🇺 | https://procreate.com/careers |
 | QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers |
-| Runtastic | Austria 🇦🇹 | https://www.runtastic.com/career/jobs |
 | Scout24 | Berlin 🇩🇪 | http://jobs.scout24.com |
-| Seldon | UK (London, Cambridge) 🇬🇧 | https://www.seldon.io/careers |
+| Seldon | UK (London, Cambridge) 🇬🇧 | https://apply.workable.com/seldon |
 | Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
 | Shape Games | Copenhagen 🇩🇰 | https://careers.shapegames.com/jobs |
 | SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
 | Smartly.io | Helsinki 🇫🇮 | https://www.smartly.io/careers |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
-| Solsten | Berlin 🇩🇪 | https://boards.greenhouse.io/solsten |
 | Solvians | Germany (Berlin, Frankfurt, Göttingen) 🇩🇪 | https://www.solvians.com/career |
 | SoundCloud  | Berlin 🇩🇪 <br> United States (LA, NYC) 🇺🇸 | https://careers.soundcloud.com |
 | straiv  | Stuttgart 🇩🇪 | https://straiv.io/en/career |
-| Stream | Amsterdam 🇳🇱 | https://boards.greenhouse.io/stream |
+| Stream | Amsterdam 🇳🇱 | https://jobs.ashbyhq.com/stream |
 | Sumo Digital | United Kingdom 🇬🇧 | https://www.sumo-digital.com/careers |
 | Swisscom | Rotterdam 🇳🇱 | https://sdcrotterdam.swisscom.ch/openpositions |
 | Tactile Games | Copenhagen 🇩🇰 | https://tactilegames.com/careers |
-| Talkwalker | Luxembourg 🇱🇺 | https://www.talkwalker.com/careers |
+| Talkwalker | Luxembourg 🇱🇺 | https://talkwalker.com/team |
 | The LEGO Group | Denmark (Billund, Copenhagen) 🇩🇰 | https://www.lego.com/da-dk/careers/search |
 | Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
 | TuSimple | United States 🇺🇸 | https://www.tusimple.com/careers |
 | Uphold | Portugal (Porto, Braga) 🇵🇹 | https://uphold.com/careers |
-| Vimcar | Berlin 🇩🇪 | https://careers.vimcar.com/en |
+| Vimcar | Berlin 🇩🇪 | https://relocate.me/companies-hiring/vimcar |
 | Volkswagen Digital Solutions | Lisbon 🇵🇹 | https://www.vwds.pt/careers |
 | Wallapop | Barcelona 🇪🇸 | https://boards.eu.greenhouse.io/wallapop |
 | Wayve | London 🇬🇧 | https://wayve.ai/join-us |
 | Welltech  | Limassol 🇨🇾 <br> Warsaw 🇵🇱 | https://welltech.com/career |
 | WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
-| Wise | London 🇬🇧 | https://www.wise.jobs/search/?t=engineering&o=&sort=newest |
+| Wise | London 🇬🇧 | https://wise.jobs/jobs |
 | WorldQuant | Yerevan 🇦🇲 <br> Budapest 🇭🇺 | https://www.worldquant.com/career-listing |
 | Xeneta | Oslo 🇳🇴 | https://xeneta.pinpointhq.com |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
-| Zenly | Paris 🇫🇷 | https://zen.ly/jobs |
 | Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
 | Zivid | Oslo 🇳🇴 | https://www.zivid.com/career-join-zivid |
 | Zound Industries | Stockholm 🇸🇪 | https://ziegert-group.com/en/careers |
@@ -205,7 +201,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 
 
 # 💰 Compensation negotiation
-* [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/working-abroad/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
+* [Considerations to make when negotiating your salary abroad](https://relocate.me/international-jobs/job-search-guide/salary-negotiation-tips)
 * [TechPays](https://techpays.eu/): A tech salary comparison site focused on Europe.
 * 🎥 [5 mistakes you are making in negotiating your developer salary](https://youtu.be/s_vxsu5nsjw)
 * [Relocation packages explained](https://relocate.me/international-jobs/job-search-guide/relocation-packages)
@@ -219,7 +215,7 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * 🌍 [A guide to global visa options, permanent residence & citizenship pathways](https://relocate.me/visas)
 * 🌍 [The ultimate guide to work permits across Europe](https://relocate.me/blog/visas-and-immigration/guide-to-work-permits-in-europe/)
 * 🇪🇺 [The best European countries for easy work visas](https://relocate.me/blog/visas-and-immigration/easiest-european-country-to-get-work-visa/)
-* 🇪🇺 [EU Blue Card (essential information)](https://ec.europa.eu/immigration/blue-card/essential-information_en)
+* 🇪🇺 [EU Blue Card (essential information)](https://immigration-portal.ec.europa.eu/eu-blue-card_en)
 * 🇳🇱 [Recognised sponsors of a Dutch Highly Skilled Migrant residence permit](https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants)
 * 🇬🇧 [Everything you need to know about the UK Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
 * 🇬🇧 [Licensed UK Skilled Worker visa sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
@@ -271,8 +267,7 @@ Shout out to the companies that help grow this resource and support global talen
 
 **[Picnic](https://jobs.picnic.app/en/home)** is one of Europe’s fastest-growing tech companies, delivering fresh groceries to millions of customers in the Netherlands, Germany, and France. They’re hiring tech talent from around the world!
 
-If you haven’t already, check out their open tech roles in Amsterdam:  
-[Senior Java Developer](https://jobs.picnic.app/nl/vacancies?gh_jid=4476506&gh_src=bf068fab1us), [Java Developer](https://jobs.picnic.app/nl/vacancies?gh_jid=986403&gh_src=ecd3e4061us), [Tech Lead (Python)](https://jobs.picnic.app/en/vacancies/J9YCROYC/engineering/tech-lead-python/amsterdam/north/holland/netherlands), and [many more](https://jobs.picnic.app/en/tech).  
+If you haven’t already, check out their [open tech roles in Amsterdam](https://jobs.picnic.app/en/tech).  
 
 🐙 [Picnic on GitHub](https://github.com/picnicsupermarket) | 📝 [Picnic’s Engineering Blog](https://blog.picnic.nl/)
 
