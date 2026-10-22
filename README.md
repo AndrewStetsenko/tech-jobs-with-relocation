@@ -75,7 +75,6 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 
 
 # 🔖 International recruitment agencies
-* [Agile Search](https://jobs.talentium.io/agile-search). Matches developers from all over the world with the best job opportunities and companies in the Nordics.
 * [Global {M}](https://globalm.io/) – jobs with European tech companies 
 * [Nederlia](https://nederlia.com/) – tech & product roles at starups and scaleups in Europe
 * [Relocateme.eu](https://relocateme.eu/) – software engineer jobs with European startups and well-established tech companies
