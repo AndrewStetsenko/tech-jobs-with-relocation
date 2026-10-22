@@ -27,14 +27,13 @@ Tools:
 * 🔨 [hello.cv](https://www.hello.cv/?via=relocate.me) for building a powerful online presence. Create subdomains like _blog.yourname.cv_ to share your story or link _yourname.cv_ directly to your LinkedIn profile or portfolio.
 * 🔨 Enhancv's [Resume Builder](https://enhancv.com/get-started/relocate-me-resume/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=list) 
 * 🔨 A free and fast [AI Resume Checker](https://enhancv.com/resources/resume-checker/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=resume-section) for instant resume feedback
-* 🔨 [FlowCV](https://flowcv.io/resume-templates) for resume templates
+* 🔨 [FlowCV](https://flowcv.com/resume-templates) for resume templates
   
 
 
 # 👀 Job search (useful reads)
 * [Effective search tactics for developer jobs](https://relocate.me/blog/working-abroad/developer-job-search-tactics/)
 * [How to find global, remote-from-anywere jobs](https://relocateme.substack.com/p/how-to-find-remote-from-anywhere)
-* [Reasons why you're not hearing back about jobs](https://www.thebalancecareers.com/reasons-why-you-re-not-hearing-back-about-jobs-4772644)
 * [7 basic mistakes that'll slow down any job search - and how to fix them all today](https://www.themuse.com/advice/7-basic-mistakes-thatll-slow-down-any-job-searchand-how-to-fix-them-all-today)
 * [The best day and time to apply for a job online](https://careersidekick.com/whats-the-best-day-to-apply-for-jobs-online/)
 * [When (and when not) to include a cover letter](https://www.thebalancecareers.com/should-you-include-a-cover-letter-if-it-s-not-required-2060291)
@@ -46,7 +45,7 @@ Tools:
 # 🔖 Niche job boards that have a filter for relocation
 * [Relocate.me](https://relocate.me/international-jobs): The site is built around and focused on tech jobs that offer relocation.
 * [Wellfound (formerly AngelList)](https://wellfound.com/jobs): If you go to the Filters tab, you will find a section named "Immigration + Network." There is an option to "only show companies that can sponsor a visa." Tick the box.
-* [Landing.Jobs](https://landing.jobs/jobs?page=1&vs=true&hd=false&t_co=false&t_st=false): The main country that they feature is Portugal, but you can find tech jobs in other parts of Europe as well. When searching for jobs, make sure to select the gilter for "Visa & work permit."
+* [Landing.Jobs](https://landing.jobs/jobs?page=1&visa_support=true): The main country that they feature is Portugal, but you can find tech jobs in other parts of Europe as well. When searching for jobs, make sure to select the gilter for "Visa & work permit."
 * [SwissDevJobs](https://swissdevjobs.ch): For those looking to move to Switzerland, SwissDev Jobs is a great place to turn. The website allows you to easily locate developer jobs anywhere in Switzerland. In order to filter it to only jobs with relocation, you simply need to check the filter box for "Visa sponsorship for non-EU residents."
 * [TokyoDev](https://www.tokyodev.com/jobs/): The site is dedicated to helping international developers start and grow their career in Japan. Among other things, you will find a list of job offerings from local employers that are open to hiring foreign, English-speaking techies.  
 * [Japan Dev](https://japan-dev.com/japan-jobs-relocation): A hand-curated job board for tech roles in Japan.
@@ -94,40 +93,38 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | Applike Group | Hamburg 🇩🇪 | https://applike-group.com/jobs |
 | BandLab | Singapore 🇸🇬 | https://www.bandlab.com/careers |
 | Betsson Group | Ta' Xbiex (Malta) 🇲🇹 | https://www.betssongroup.com/career/available-jobs |
-| BlaBlaCar | Paris 🇫🇷 | https://blog.blablacar.com/dreamjobs |
+| BlaBlaCar | Paris 🇫🇷 | https://jobs.blablacar.com/ |
 | Blinkist | Berlin 🇩🇪 | https://www.blinkist.com/en/jobs |
 | Bol.com | Utrecht 🇳🇱 | https://careers.bol.com/en/jobs |
 | Byborg Enterprises | Luxembourg 🇱🇺 <br> Budapest 🇭🇺 | https://careers.smartrecruiters.com/DoclerHolding |
 | Catawiki | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://catawiki.careers/vacancies |
 | CloudLinux | Remote 🌍 | https://www.cloudlinux.com/about-us-company-jobs |
-| Coolblue | Rotterdam 🇳🇱 | https://www.careersatcoolblue.com |
-| Creative Fabrica | Amsterdam 🇳🇱 | https://boards.eu.greenhouse.io/creativefabrica |
-| Cube Dev | San Francisco 🇺🇸 | https://cube.dev/careers |
-| e-bot7 | Munich 🇩🇪 | https://e-bot7.com/careers |
+| Coolblue | Rotterdam 🇳🇱 | https://www.coolblue.nl/en/vacancies |
+| Creative Fabrica | Amsterdam 🇳🇱 | https://job-boards.eu.greenhouse.io/creativefabrica |
+| Cube Dev | San Francisco 🇺🇸 | https://cube-dev.careers-page.com/ |
 | Elements | Almere 🇳🇱 | https://apply.workable.com/elements |
 | ePages | Hamburg 🇩🇪 | https://epages.com/en/career |
 | EPAM | United States 🇺🇸 | https://www.epam.com/careers/job-listings |
 | EVBox | Amsterdam 🇳🇱 | https://evbox.com/en/about/careers |
 | Exness | Limassol 🇨🇾 | https://exness.bamboohr.com/jobs |
-| FINN | Munich 🇩🇪 | https://www.finn.auto/careers |
+| FINN | Munich 🇩🇪 | https://www.finn.com/de-DE/careers |
 | Flow Traders | Amsterdam 🇳🇱 <br> Hong Kong 🇭🇰 | https://www.flowtraders.com/careers |
 | foodspring | Berlin 🇩🇪 | https://www.researchgate.net/careers |
 | FxPro | Limassol 🇨🇾 | http://www.fxpro.com/careers |
-| GeoPhy | The Hague 🇳🇱 | https://geophy.com/careers |
-| Gnosis | Berlin 🇩🇪 | https://gnosis.io/careers |
+| Gnosis | Berlin 🇩🇪 | https://gnosis.jobs.personio.com/ |
 | Greentube | Vienna 🇦🇹 | https://www.greentube.com/careers |
 | HENNGE | Tokyo 🇯🇵 | https://recruit.hennge.com/en/mid-career |
 | Highsnobiety | Berlin 🇩🇪 | https://company.highsnobiety.com/jobs |
 | HomeToGo | Berlin 🇩🇪  <br> Lithuania (Kaunas, Vilnius) 🇱🇹| https://www.hometogo.com/careers |
-| HousingAnywhere | Rotterdam 🇳🇱 | https://careers.housinganywhere.com |
+| HousingAnywhere | Rotterdam 🇳🇱 | https://housinganywhere.com/careers |
 | Intropic | London 🇬🇧 | https://jobs.lever.co/intropic |
 | JOIN | Berlin 🇩🇪 | https://join.com/companies/join |
 | Journi | Vienna 🇦🇹 | https://www.journiapp.com/careers |
-| Jumbo | Veghel 🇳🇱 | https://jobs.jumbo.com/en/tech |
+| Jumbo | Veghel 🇳🇱 | https://nl.jobs.jumbo.com/en/work_environment/jumbo-tech-campus/ |
 | Just Eat Takeaway.com | Amsterdam 🇳🇱 <br> London 🇬🇧 | https://careers.justeattakeaway.com/global/en |
 | Lemonade | Amsterdam 🇳🇱 | https://makers.lemonade.com |
 | Lightspeed | Auckland 🇳🇿 | https://job-boards.greenhouse.io/lightspeedhq |
-| LINE Fukuoka | Fukuoka 🇯🇵 | https://linefukuoka.co.jp/en/career/engineer |
+| LY Corporation (LINE) | Fukuoka, Tokyo 🇯🇵 | https://www.lycorp.co.jp/en/recruit/ |
 | LOOP | Austria (Salzburg, Vienna) 🇦🇹 | https://www.agentur-loop.com/careers |
 | Manychat | Barcelona 🇪🇸 <br> Yerevan 🇦🇲 | https://careers.manychat.com/#vacancies |
 | Mercari | Tokyo 🇯🇵 | https://careers.mercari.com |
@@ -140,48 +137,46 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 | Neocom | Munich 🇩🇪 | https://www.neocom.ai/careers#section-job-openings |
 | Oda | Berlin 🇩🇪 <br> Oslo 🇳🇴 | https://careers.oda.com/jobs |
 | OJ Electronics | Sønderborg 🇩🇰 | https://ojelectronics.com/career |
-| Oxbotica | Oxford 🇬🇧 | https://www.oxbotica.com/our-people |
-| PayPay | Tokyo 🇯🇵 | https://boards.greenhouse.io/paypay |
+| Oxa (formerly Oxbotica) | Oxford 🇬🇧 | https://oxa.tech/careers/ |
+| PayPay | Tokyo 🇯🇵 | https://job-boards.greenhouse.io/paypay |
 | Payrails | Berlin 🇩🇪 | https://www.payrails.com/careers |
 | PhotoRoom | Paris 🇫🇷 | https://www.welcometothejungle.com/en/companies/photoroom/jobs |
 | Picnic | Amsterdam 🇳🇱 | https://jobs.picnic.app/en/tech |
 | Procreate | Hobart 🇦🇺 | https://procreate.com/careers |
-| QuadSAT | Odense 🇩🇰 | https://quadsat.com/career |
+| QuadSAT | Odense 🇩🇰 | https://quadsat.com/careers/ |
 | Queue-it | Copenhagen 🇩🇰 | https://careers.queue-it.com/jobs |
 | Reaktor | Amsterdam 🇳🇱 <br> Lisbon 🇵🇹 | https://www.reaktor.com/careers |
-| Scout24 | Berlin 🇩🇪 | http://jobs.scout24.com |
+| Scout24 | Berlin 🇩🇪 | https://www.scout24.com/en/career/ |
 | Seldon | UK (London, Cambridge) 🇬🇧 | https://apply.workable.com/seldon |
-| Shape | Copenhagen 🇩🇰 | https://shape.dk/careers |
-| Shape Games | Copenhagen 🇩🇰 | https://careers.shapegames.com/jobs |
+| Shape | Copenhagen 🇩🇰 | https://careers.shape.dk/ |
 | SimScale | Munich 🇩🇪 | https://www.simscale.com/jobs |
 | Smallpdf | Zurich 🇨🇭 | https://smallpdf.com/careers |
 | Smartly.io | Helsinki 🇫🇮 | https://www.smartly.io/careers |
 | SmartNews | Tokyo 🇯🇵 | https://apply.workable.com/smartnews |
 | Solvians | Germany (Berlin, Frankfurt, Göttingen) 🇩🇪 | https://www.solvians.com/career |
-| SoundCloud  | Berlin 🇩🇪 <br> United States (LA, NYC) 🇺🇸 | https://careers.soundcloud.com |
+| SoundCloud  | Berlin 🇩🇪 <br> United States (LA, NYC) 🇺🇸 | https://soundcloud.com/company/careers/ |
 | straiv  | Stuttgart 🇩🇪 | https://straiv.io/en/career |
 | Stream | Amsterdam 🇳🇱 | https://jobs.ashbyhq.com/stream |
 | Sumo Digital | United Kingdom 🇬🇧 | https://www.sumo-digital.com/careers |
-| Swisscom | Rotterdam 🇳🇱 | https://sdcrotterdam.swisscom.ch/openpositions |
+| Swisscom | Rotterdam 🇳🇱 | https://rotterdam.swisscom.com/ |
 | Tactile Games | Copenhagen 🇩🇰 | https://tactilegames.com/careers |
 | Talkwalker | Luxembourg 🇱🇺 | https://talkwalker.com/team |
 | The LEGO Group | Denmark (Billund, Copenhagen) 🇩🇰 | https://www.lego.com/da-dk/careers/search |
 | Tractable | London 🇬🇧 <br> Tokyo 🇯🇵 | https://tractable.ai/careers |
-| TuSimple | United States 🇺🇸 | https://www.tusimple.com/careers |
 | Uphold | Portugal (Porto, Braga) 🇵🇹 | https://uphold.com/careers |
 | Vimcar | Berlin 🇩🇪 | https://relocate.me/companies-hiring/vimcar |
-| Volkswagen Digital Solutions | Lisbon 🇵🇹 | https://www.vwds.pt/careers |
-| Wallapop | Barcelona 🇪🇸 | https://boards.eu.greenhouse.io/wallapop |
-| Wayve | London 🇬🇧 | https://wayve.ai/join-us |
+| Volkswagen Digital Solutions | Lisbon 🇵🇹 | https://vwg-digitalsolutions.pt/careers/ |
+| Wallapop | Barcelona 🇪🇸 | https://job-boards.eu.greenhouse.io/wallapop |
+| Wayve | London 🇬🇧 | https://jobs.ashbyhq.com/wayve |
 | Welltech  | Limassol 🇨🇾 <br> Warsaw 🇵🇱 | https://welltech.com/career |
-| WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/join-us/current-openings |
+| WiseTech Global | Sydney 🇦🇺 | https://www.wisetechglobal.com/careers/current-openings/ |
 | Wise | London 🇬🇧 | https://wise.jobs/jobs |
 | WorldQuant | Yerevan 🇦🇲 <br> Budapest 🇭🇺 | https://www.worldquant.com/career-listing |
 | Xeneta | Oslo 🇳🇴 | https://xeneta.pinpointhq.com |
 | Xovis | Switzerland (Zollikofen, Zurich) 🇨🇭 | https://www.xovis.com/careers |
-| Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
+| Ziegert Group | Berlin 🇩🇪 | https://relocate.me/companies-hiring/ziegert-group |
 | Zivid | Oslo 🇳🇴 | https://www.zivid.com/career-join-zivid |
-| Zound Industries | Stockholm 🇸🇪 | https://ziegert-group.com/en/careers |
+| Zound Industries | Stockholm 🇸🇪 | https://emp.jobylon.com/companies/150-zound-industries/ |
 
 
 
@@ -213,11 +208,11 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * 🌍 [The ultimate guide to work permits across Europe](https://relocate.me/blog/visas-and-immigration/guide-to-work-permits-in-europe/)
 * 🇪🇺 [The best European countries for easy work visas](https://relocate.me/blog/visas-and-immigration/easiest-european-country-to-get-work-visa/)
 * 🇪🇺 [EU Blue Card (essential information)](https://immigration-portal.ec.europa.eu/eu-blue-card_en)
-* 🇳🇱 [Recognised sponsors of a Dutch Highly Skilled Migrant residence permit](https://ind.nl/en/public-register-recognised-sponsors/public-register-regular-labour-and-highly-skilled-migrants)
+* 🇳🇱 [Recognised sponsors of a Dutch Highly Skilled Migrant residence permit](https://ind.nl/en/public-register-recognised-sponsors/public-register-work)
 * 🇬🇧 [Everything you need to know about the UK Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
 * 🇬🇧 [Licensed UK Skilled Worker visa sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
 * 🇺🇸 [Database of H1B visa sponsors](https://h1bgrader.com)
-* 🇸🇬 [An overview of Singapore immigration visa schemes](https://www.guidemesingapore.com/business-guides/immigration/singapore-visa/singapore-immigration-visa-schemes#:~:text=The%20Employment%20Pass%20(EP)%20is,will%20be%20working%20in%20Singapore.&text=Validity%3A%20An%20EP%20is%20initially,be%20employed%20by%20the%20company)
+* 🇸🇬 [An overview of Singapore immigration visa schemes](https://www.hawksford.com/insights-and-guides/immigration-in-singapore)
 * 🇦🇺 [How to migrate to Australia as a software engineer](https://ausdirectmigration.com/how-to-migrate-to-australia-as-a-software-engineer/)
 * 🔨 [Visadb.io](https://visadb.io/search/visas/all) to browse visas worldwide
 
@@ -240,10 +235,10 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 # ✈️ Relocation companies & helpful services for expats
 * 🇺🇸 [Manifest](https://gomanifestlaw.com/relocate): An immigration law firm specializing in U.S. employment-based visas — EB-1, O-1, National Interest Waivers, and more. What makes them different is their process: you’re matched with an experienced attorney based on your specific case, receive dedicated 1:1 support, and can track your case every step of the way.
 * 🌍 [A. Univers Transit](https://www.univers-transit.co.il/): A family-owned company with over 20 years of expertise in international moving and relocation services for individuals, families, and corporate clients. Their services include packing, transporting, and delivering household goods and personal belongings; housing searches; school search assistance for families relocating with children; and settling-in support, among others.
-* 🇬🇧 [Duncans of London](https://www.theduncanpropertygroup.co.uk/): Specialises in providing luxury serviced apartments in the heart of London, catering to both long-term relocations and short-term leisure stays.
+* 🇬🇧 [Duncans of London](https://www.duncansoflondon.com/): Specialises in providing luxury serviced apartments in the heart of London, catering to both long-term relocations and short-term leisure stays.
 * 🇩🇪 [Caselink](https://www.caselink.solutions/): Provides relocation and immigration support in Germany, helping expats with visa applications, residence permits, local registration, and navigating German bureaucracy. By combining AI-powered automation with expert consultants, they make the process faster and easier to manage - from applications to settling in.
 * 🇫🇷 [EasyStart Relocation](https://easystart.me/): Helps relocate to France by offering a seamless, all-inclusive approach to international moves. From visas and immigration to renting or purchasing property, setting up social security, and even tax advice.
-* 🇩🇪 [BARMER](https://feather-insurance.com/de-de/public-health-insurance/barmer/?utm_source=Relocate.meSocialMedia&utm_campaign=dijana.knezevic@barmer.de): One of Germany’s largest and most respected public health insurance providers, offering multilingual support, expedited social security number processing, and dedicated assistance tailored to the needs of expats.
+* 🇩🇪 [BARMER](https://feather-insurance.com/de-de/health-insurance/public/barmer?utm_source=Relocate.meSocialMedia&utm_campaign=dijana.knezevic@barmer.de): One of Germany’s largest and most respected public health insurance providers, offering multilingual support, expedited social security number processing, and dedicated assistance tailored to the needs of expats.
 * 🇩🇪 [Wunderflats](https://wunderflats.com/en?utm_source=relocate.me): Germany’s leading platform for temporary furnished rentals, offering verified, move-in-ready apartments for stays of one month or longer (primarily in major German cities).
   
 
