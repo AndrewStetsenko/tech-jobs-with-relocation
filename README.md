@@ -211,6 +211,8 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 * 🇳🇱 [Recognised sponsors of a Dutch Highly Skilled Migrant residence permit](https://ind.nl/en/public-register-recognised-sponsors/public-register-work)
 * 🇬🇧 [Everything you need to know about the UK Skilled Worker visa](https://www.gov.uk/skilled-worker-visa)
 * 🇬🇧 [Licensed UK Skilled Worker visa sponsors](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers)
+* 🇬🇧 [Search the UK sponsor register by company, city and visa route](https://uhirable.github.io/uk-visa-sponsors.html)
+* 🇨🇦 [Search Canada's positive LMIA employer list by employer, province and job](https://uhirable.github.io/canada-lmia-employers.html)
 * 🇺🇸 [Database of H1B visa sponsors](https://h1bgrader.com)
 * 🇸🇬 [An overview of Singapore immigration visa schemes](https://www.hawksford.com/insights-and-guides/immigration-in-singapore)
 * 🇦🇺 [How to migrate to Australia as a software engineer](https://ausdirectmigration.com/how-to-migrate-to-australia-as-a-software-engineer/)
