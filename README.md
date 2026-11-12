@@ -75,7 +75,6 @@ _**Note:** Access to the weekly job lists and the full archive is available with
 
 # 🔖 Recruiting agencies & Platforms
 * [Global {M}](https://globalm.io/) – jobs with European tech companies 
-* [Toughbyte](https://app.toughbyte.com/positions) – dev job opportunities in EU countries 
 * [VanHack](https://vanhack.com/) – tech jobs with relocation and remote roles in Canada, the US and Europe 
 * [Zero to One Search](https://jobs.zerotoonesearch.com/careers) – IT jobs in Germany
 
