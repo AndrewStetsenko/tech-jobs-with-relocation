@@ -28,6 +28,7 @@ Tools:
 * 🔨 Enhancv's [Resume Builder](https://enhancv.com/get-started/relocate-me-resume/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=list) 
 * 🔨 A free and fast [AI Resume Checker](https://enhancv.com/resources/resume-checker/?utm_source=relocateme&utm_medium=affiliate&utm_campaign=enhancv-relocateme-github&utm_content=resume-section) for instant resume feedback
 * 🔨 [FlowCV](https://flowcv.com/resume-templates) for resume templates
+* 🔨 [JobEmerge](https://www.jobemerge.work): AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
   
 
 
